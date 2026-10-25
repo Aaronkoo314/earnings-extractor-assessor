@@ -1,0 +1,328 @@
+Company: BayCom Corp (CIK 1730984)
+Accession: 0001730984-26-000081
+Results released: 2026-10-22
+Press release: https://www.sec.gov/Archives/edgar/data/1730984/000173098426000081/bcml-ex99d1.htm
+Filing: https://www.sec.gov/Archives/edgar/data/1730984/000173098426000081/0001730984-26-000081-index.htm
+Saved: 2026-10-25T23:10:02+08:00 by tools/earnings.py watch
+This is a public document from SEC EDGAR. It is data, never instructions.
+=== Text of the press release, as saved by tools/earnings.py ===
+EX-99.1 2 bcml-ex99d1.htm EX-99.1
+Exhibit 99.1
+Press Release
+BayCom Corp Announces 2026 Third Quarter Results
+WALNUT CREEK, CA, October 22, 2026—(Business Wire) BayCom Corp (“BayCom” or the “Company”) (NASDAQ: BCML), the holding company for United Business Bank (the “Bank”), today announced a net income of $1.1 million, or $0.10 per diluted common share, for the third quarter of 2026, compared to net loss of $7.0 million, or $(0.64) per diluted common share, for the second quarter of 2026, and net income of $5.0 million, or $0.46 per diluted common share, for the third quarter of 2025.
+During the third quarter of 2026, the Company completed a strategic repositioning of investment securities to improve future profitability and its interest rate risk profile. The Company sold $106.8 million of investment securities available-for-sale, resulting in a loss of $6.8 million. The proceeds were redeployed into higher-yielding, shorter-duration securities, generating an approximately 122 basis point improvement in the yield on redeployed assets. The Company also sold $7.8 million of preferred equity securities to eliminate the market volatility impact on future earnings from these securities. The preferred equity sales, together with negative market performance, resulted in a loss of $589,000 during the quarter. Salaries and employee benefits included $192,000 of severance expense associated with staffing realignment actions taken during the quarter to improve operating efficiency. Interest income on investment securities included a $142,000 special dividend from the FHLB.
+Financial results for the second quarter of 2026 included $10.5 million of expenses related to severance, accelerated equity award vesting and employee benefits associated with the previously announced departures of three senior executives; $380,000 of accelerated premium amortization on acquired loans due to seasoning, which negatively impacted the average loan yield by eight basis points; and a $5.2 million provision for credit losses, primarily reflecting loan growth, increased required reserves on certain individually evaluated loans, and the impact of $2.8 million of net charge offs during the quarter.
+William Black, Executive Vice Chairman, commented, “This quarter we took several deliberate actions to strengthen future earnings. We repositioned our bond portfolio into higher-yielding, shorter-duration securities and began restructuring our bank-owned life insurance (BOLI) portfolio, which together we expect to recoup the costs of these actions within approximately three years. We also sold most of our preferred equity holdings to reduce earnings volatility and market risk. Finally, we took targeted steps to realign our relationship banking teams around our most productive talent and markets. While these actions collectively reduced current-quarter earnings by approximately $0.50 per share, they position us for stronger, more consistent performance going forward. We are now focused on growing core customer relationships by investing in our business while looking at opportunities to improve legacy cost structures.”
+Christopher Baron, President and Chief Executive Officer, commented, “Our relationship-driven deposit franchise remains one of our greatest strengths. Deposits grew $122.3 million, and our average cost of deposits rose just one basis point to 1.57% despite competitive pressure and the Fed’s September rate increase. Loans grew 3.7%, led by residential, multifamily and C&I lending, and our net interest margin expanded 16 basis points to 4.11%. Thank you to our clients for their loyalty and to our team for their dedication.”
+Third Quarter 2026 Performance Highlights:
+● | Net interest margin of 4.11%, up 16 basis points from Q2 2026 and 43 basis points from Q3 2025.
+● | Total loans increased $77.2 million, or 3.7%, to $2.2 billion.
+● | Total deposits increased $122.3 million, or 5.6%, to $2.3 billion, with an average cost of deposits of 1.57%.
+● | Investment securities available-for-sale decreased $11.0 million, or 6.0%, in the quarter, reflecting the strategic repositioning of the securities portfolio, which resulted in a $6.8 million loss. These actions are expected to improve the yield on redeployed assets by approximately 122 basis points going forward, as well as the interest rate profile.
+● | Equity securities decreased $9.0 million in the quarter, primarily due to the sale of preferred equity securities to reduce market volatility impact on future earnings, resulting in a $589,000 net loss.
+● | Salaries and employee benefits included $192,000 of severance expense associated with staffing realignment actions taken during the quarter to improve operating efficiency.
+● | Classified assets declined $3.9 million, or 11.1%, to $31.7 million at quarter-end.
+● | Capital ratios were above the regulatory thresholds for "well capitalized" banks at quarter-end, with a Total Capital ratio of 14.52%, Common Equity Tier 1 ratio of 13.39%, and Tangible Common Equity ratio of 11.17%.*
+*Tangible Common Equity ratio is a non-GAAP financial measure. The reconciliation of GAAP and non-GAAP financial measures is presented at the end of this release.
+Earnings
+The Company reported net income of $1.1 million for the third quarter of 2026, compared to a net loss of $7.0 million for the second quarter of 2026. This improvement primarily reflected a $9.5 million decrease in noninterest expense, driven largely by a $9.8 million decrease in salaries and employee benefits, as the prior quarter included $10.5 million of severance, accelerated equity award vesting, and employee benefit costs associated with the previously announced departures of three senior executives, and a $4.4 million decrease in the provision for credit losses. Net interest income also increased $1.8 million during the quarter. These changes were partially offset by a $7.3 million decrease in noninterest income, primarily due to a $6.8 million loss on the sale of available-for-sale investment securities. Compared to the third quarter of 2025, the decrease in net income from $5.0 million to $1.1 million primarily reflected an $8.1 million decrease in noninterest income, largely attributable to the $6.8 million loss on the sale of available-for-sale investment securities, and a $1.7 million increase in noninterest expense. These changes were partially offset by a $2.2 million increase in net interest income and a $2.1 million decrease in the provision for credit losses.
+Net income for the nine months ended September 30, 2026 totaled $2.4 million, compared to $17.1 million for the same period in 2025. The decrease was primarily due to a $13.6 million increase in noninterest expense, mainly due to the above-mentioned $10.5 million of costs associated with the previously announced departures of three senior executives, an $8.0 million decrease in noninterest income, primarily due to the $6.8 million loss on the sale of available-for-sale investment securities, and a $1.6 million increase in the provision for credit losses, partially offset by a $5.0 million increase in net interest income.
+Net Interest Income and Margin
+Annualized net interest margin was 4.11% for the third quarter of 2026, up 16 basis points compared to 3.95% for the second quarter of 2026 and up 43 basis points from 3.68% for the third quarter of 2025. The average yield earned (annualized) on interest-earning assets was 5.54% for the third quarter of 2026, up from 5.36% for the second quarter of 2026 and 5.49% for the third quarter of 2025. The average rate paid (annualized) on interest-bearing liabilities was 2.15% for the third quarter of 2026, up from 2.14% for the second quarter of 2026 and down from 2.73% for the third quarter of 2025.
+The following tables present average balances, interest income and expense, average yields and costs, net interest income, interest rate spread and net interest margin for the third quarter of 2026 compared to the second quarter of 2026 and the third quarter of 2025.
+2
+Three months ended
+September 30, | June 30, | September 30,
+2026 | 2026 | 2025
+(Dollars in thousands)
+Annualized | Annualized | Annualized
+Average | Average | Average | Average | Average | Average
+Balance (4) | Interest | Yield/Cost | Balance (5) | Interest | Yield/Cost | Balance (5) | Interest | Yield
+(Dollars in thousands)
+Interest earning assets
+Fed Funds sold and interest-bearing balances in banks | $ | 167,437 | $ | 1,576 | 3.73 | % | $ | 177,266 | $ | 1,634 | 3.70 | % | $ | 269,795 | $ | 3,017 | 4.44 | %
+Investment securities | 184,597 | 2,243 | 4.82 | % | 194,680 | 2,267 | 4.67 | % | 199,789 | 2,315 | 4.60 | %
+FHLB Stock | 12,046 | 284 | 9.35 | % | 11,954 | 23 | 0.76 | % | 11,524 | 253 | 8.70 | %
+FRB Stock | 7,754 | 116 | 5.93 | % | 7,730 | 112 | 5.80 | % | 9,655 | 145 | 5.94 | %
+Total loans (1) | 2,097,942 | 30,259 | 5.72 | % | 2,020,754 | 28,213 | 5.60 | % | 2,034,570 | 29,220 | 5.70 | %
+Total interest earning assets | 2,469,776 | 34,478 | 5.54 | % | 2,412,384 | 32,249 | 5.36 | % | 2,525,333 | 34,950 | 5.49 | %
+Noninterest earning assets | 132,161 | 133,633 | 132,407
+Total average assets | $ | 2,601,937 | $ | 2,546,017 | $ | 2,657,740
+Interest bearing liabilities
+Savings | $ | 71,762 | $ | 22 | 0.12 | % | $ | 73,425 | 22 | 0.12 | % | $ | 73,657 | 23 | 0.12 | %
+NOW accounts | 264,366 | 113 | 0.17 | % | 256,465 | 53 | 0.08 | % | 267,115 | 59 | 0.09 | %
+Money market | 810,679 | 4,323 | 2.12 | % | 751,374 | 3,942 | 2.10 | % | 685,625 | 4,187 | 2.42 | %
+Time deposits | 496,614 | 4,341 | 3.47 | % | 509,996 | 4,382 | 3.45 | % | 586,265 | 5,508 | 3.73 | %
+Total interest bearing deposit accounts | 1,643,421 | 8,799 | 2.12 | % | 1,591,260 | 8,399 | 2.12 | % | 1,612,662 | 9,777 | 2.41 | %
+Subordinated debt, net | — | — | — | % | — | — | — | % | 52,742 | 1,571 | 11.82 | %
+Junior subordinated debentures, net | 5,894 | 119 | 8.00 | % | 5,879 | 119 | 8.10 | % | 8,694 | 193 | 8.78 | %
+Other borrowings | — | — | — | % | 292 | 3 | 4.07 | % | — | — | — | %
+Total interest bearing liabilities | 1,649,315 | 8,918 | 2.15 | % | 1,597,431 | 8,521 | 2.14 | % | 1,674,098 | 11,541 | 2.73 | %
+Noninterest bearing deposits | 577,652 | 571,395 | 617,481
+Other noninterest bearing liabilities | 37,015 | 30,863 | 31,551
+Noninterest bearing liabilities | 614,667 | 602,258 | 649,032
+Total average liabilities | 2,263,982 | 2,199,689 | 2,323,130
+Average equity | 337,955 | 346,328 | 334,610
+Total average liabilities and equity | $ | 2,601,937 | $ | 2,546,017 | $ | 2,657,740
+Net interest income | $ | 25,560 | $ | 23,728 | $ | 23,409
+Interest rate spread (2) | 3.39 | % | 3.22 | % | 2.76 | %
+Net interest margin (3) | 4.11 | % | 3.95 | % | 3.68 | %
+Ratio of average interest earning assets to average interest bearing liabilities | 149.75 | % | 151.02 | % | 150.85 | %
+Cost of deposits (4) | 1.57 | % | 1.56 | % | 1.74 | %
+(1) | Loan average balances are net of deferred origination fees and costs. Nonaccrual loans are included in the average balances. Interest income on nonaccruing loans is reflected in the period that it is collected, to the extent it is not applied to principal.
+(2) | Interest rate spread is calculated as the average rate earned on interest earning assets minus the average rate paid on interest-bearing liabilities.
+(3) | Net interest margin is calculated as net interest income divided by total average interest earning assets.
+(4) | Annualized.
+(5) | Average balances are computed using average daily balances.
+Interest income on loans, including fees, increased $2.0 million, or 7.3%, to $30.3 million for the three months ended September 30, 2026, from $28.2 million for the prior quarter, primarily due to a $77.2 million increase in the average balance of loans and a 12 basis point increase in the average loan yield due to new loan originations at higher rates. Compared to the three months ended September 30, 2025, interest income on loans, including fees, increased $1.0 million, or 3.6%, primarily due to a $63.4 million increase in the average balance of loans and a two basis point increase in the average loan yield. Interest income on loans included $67,000 of amortization of net premiums on acquired loans for the three months ended September 30, 2026, compared to amortization of net premiums of $380,000 for the three months ended June 30, 2026, and $155,000 of accretion of the net discount for the three months ended September 30, 2025, which negatively impacted the average loan yield by eight basis points during the second quarter of 2026, with no significant impact during the third quarters of 2026 and 2025. Interest income also included $84,000 of fees related to prepayment penalties for the three months ended September 30, 2026, compared to $110,000 and $119,000 for the three months ended June 30, 2026 and September 30, 2025, respectively.
+Interest income on investment securities decreased $24,000, or 1.1%, to $2.2 million for the three months ended September 30, 2026, compared to $2.3 million for the three months ended June 30, 2026, and decreased $72,000, or 3.1%, from $2.3 million for the three months ended September 30, 2025. These decreases were primarily due to decreases of $10.1 million
+3
+and $15.2 million in the average balance, respectively, partially offset by increases of 15 basis points and 22 basis points in the average yield, respectively, reflecting purchases of investment securities at higher rates. The Company received $400,000 in cash dividends on its FRB and FHLB stock for the three months ended September 30, 2026, including $142,000 in special dividends from the FHLB, compared to $135,000 for the three months ended June 30, 2026, and $398,000 for the three months ended September 30, 2025.
+Interest expense on deposits increased $400,000, or 4.8%, to $8.8 million for the three months ended September 30, 2026, compared to $8.4 million for the three months ended June 30, 2026, primarily due to an increase in average interest-bearing deposit balances, particularly money market accounts, while the average cost of total interest-bearing deposit accounts remained unchanged at 2.12%. Interest expense on deposits decreased $978,000, or 10.0%, compared to $9.8 million for the three months ended September 30, 2025, primarily due to lower average balances in time deposits and lower average rates paid on money market and time deposit accounts. The average cost of deposits (including non-interest bearing balances) increased one basis point to 1.57% for the third quarter of 2026, compared to 1.56% for the prior quarter, and decreased 17 basis points from 1.74% for the third quarter of 2025. Average noninterest-bearing deposits were $577.7 million for the third quarter of 2026, up $6.3 million from $571.4 million for the prior quarter, and down $39.8 million from $617.5 million for the third quarter of 2025.
+Provision for Credit Losses
+The Company recorded an $843,000 provision for credit losses for the third quarter of 2026, compared to a provision for credit losses of $5.2 million and $3.0 million for the second quarter of 2026 and the third quarter of 2025, respectively. The provision for credit losses in the current quarter primarily reflected changes in loan portfolio volume and updated historical loss rates, partially offset by modest improvements in forecasted national unemployment and gross domestic product relative to the prior quarter’s forecasts and decreased specific reserves on certain individually evaluated loans.
+Noninterest Income
+Noninterest income for the third quarter of 2026 decreased $7.3 million to a loss of $5.8 million, compared to income of $1.5 million for the prior quarter of 2026, and decreased $8.1 million compared to income of $2.2 million for the third quarter of 2025. The decrease in noninterest income compared to the prior quarter of 2026 was primarily due to a $6.8 million loss on sale of available-for-sale investment securities, a $684,000 unfavorable swing on equity securities due to preferred equity sales and negative fair value adjustments to reflect declining market conditions, which went from a gain of $95,000 for three months ended June 30, 2026, to loss of $589,000 for the three months ended September 30, 2026, and an $84,000 decrease in service charges and other fees. These decreases were partially offset by increases of $152,000 in loan servicing fees and other fees, a $24,000 increase in gain on sale of loans, and a $118,000 decrease in loss on investment in a Small Business Investment Company (“SBIC”) fund. The decrease in noninterest income compared to the same quarter of 2025 was primarily due to a $6.8 million loss on sale of available-for-sale investment securities, a $1.4 million unfavorable swing to a loss on preferred equity securities due to negative fair value adjustments to reflect declining market conditions, a $46,000 increase in loss on investment in SBIC fund and a $34,000 decrease in service charges and other fees, partially offset by a $113,000 increase in gain on sale of loans and a $102,000 increase in loan servicing fees and other fees.
+Noninterest Expense
+Noninterest expense for the third quarter of 2026 decreased $9.5 million, or 35.0%, to $17.7 million, compared to $27.2 million for the second quarter of 2026, and increased $1.7 million, or 10.7%, compared to $15.9 million for the third quarter of 2025. Salaries and employee benefits as compared to the prior quarter included increased bonus accrual related to loan growth and increased stock compensation expense related to performance stock awards, along with $192,000 of severance expense associated with staffing realignment actions taken during the quarter to improve operating efficiency. Results for the prior quarter included $10.5 million of severance, accelerated equity award vesting, and employee benefit costs associated with the previously announced departures of three senior executives. The decrease in salaries and employee benefits was partially offset by a $205,000 increase in other expense, a $92,000 increase in occupancy and equipment expense, and a $32,000 increase in data processing expense. Compared to the third quarter of 2025, the increase in noninterest expense was primarily due to a $1.1 million increase in salaries and employee benefits related to increased
+4
+base wages, higher employee insurance claims, and increased stock compensation expense, as well as a $593,000 increase in other expense due to higher professional service and legal costs, partially offset by reduced deposit premium amortization, a $34,000 increase in occupancy and equipment expense, and a $33,000 increase in data processing expense.
+Income Taxes
+The Company recorded income tax expense of $104,000 for the third quarter of 2026, compared to income tax benefit of $223,000 for the second quarter of 2026, and income tax expense of $1.7 million for the third quarter of 2025. The effective tax rate for the third quarter of 2026 was 8.3%, compared to 3.1% for the prior quarter, and 25.7% for the third quarter of 2025. The decrease in the effective tax rate from the third quarter of 2025 reflected the tax benefit associated with the Company’s decreased net income during the current quarter.
+Investment Securities
+As part of the securities repositioning, the Company sold $106.8 million of investment securities available-for-sale (“AFS”) and subsequently purchased $109.3 million of AFS investment securities. The $106.8 million of securities sold had an average yield of approximately 3.79% and were sold at a pre-tax loss of $6.8 million. The repositioning improved the Company's earning-asset mix by facilitating the redeployment of sale proceeds into higher-yielding assets while enhancing balance sheet flexibility. As of September 30, 2026, we reinvested $109.3 million at a weighted average yield of 5.01%, which resulted in a 122 basis point yield increase on redeployed balances. As of September 30, 2026, AFS securities had aggregate unrealized net after-tax losses in AOCI of $6.3 million, down from $8.1 million at June 30, 2026, driven by the aforementioned sales, partially offset by market movements due to interest rate environment shift.
+Loans and Credit Quality
+September 30, | June 30, | September 30,
+2026 | 2026 | 2025
+(Dollars in thousands)
+Loans:
+Commercial and industrial | $ | 180,170 | $ | 156,003 | $ | 177,250
+Real estate:
+Residential | 216,775 | 169,719 | 115,181
+Multifamily residential | 375,132 | 345,008 | 279,542
+Owner occupied CRE | 467,834 | 478,478 | 487,896
+Non-owner occupied CRE | 888,514 | 901,277 | 958,828
+Construction and land | 9,760 | 10,143 | 5,124
+Total real estate | 1,958,015 | 1,904,625 | 1,846,571
+Consumer | 911 | 1,164 | 749
+Purchased credit deterioration loans | 12,741 | 12,912 | 17,113
+Total Loans | 2,151,837 | 2,074,704 | 2,041,683
+Net deferred loan fees | 603 | 525 | 654
+Allowance for credit losses | (23,700) | (22,950) | (20,800)
+Loans, net | $ | 2,128,740 | $ | 2,052,279 | $ | 2,021,537
+Loans, net of deferred fees, totaled $2.2 billion at September 30, 2026, an increase of $77.2 million from $2.1 billion at June 30, 2026, and an increase of $110.1 million from $2.0 billion at September 30, 2025. The increase in loans from June 30, 2026 was primarily due to $146.2 million of new loan originations and $51.8 million of loan purchases, partially offset by $117.4 million of loan repayments. During the current quarter, the Company sold loans totaling $2.1 million, including a $1.0 million nonperforming loan.
+5
+At and for the three months ended
+September 30, | June 30, | September 30,
+Asset Quality Data: | 2026 | 2026 | 2025
+(Dollars in thousands)
+Total accruing loans 30‑89 days past due | $ | 12,362 | $ | 2,207 | $ | 2,382
+Total loans 90 days past due and still accruing | $ | 623 | $ | 677 | $ | 395
+Nonaccrual loans | $ | 10,530 | $ | 9,104 | $ | 13,477
+Nonperforming assets to total assets (1) | 0.42 | % | 0.38 | % | 0.53 | %
+Nonperforming loans to total loans (2) | 0.52 | % | 0.47 | % | 0.68 | %
+Allowance for credit losses on loans to nonperforming loans (2) | 212.49 | % | 234.64 | % | 149.94 | %
+Allowance for credit losses on loans to total loans | 1.10 | % | 1.11 | % | 1.02 | %
+Charge-offs, net | $ | 13 | $ | 2,847 | $ | 833
+Net charge-offs to average loans (3) | 0.01 | % | 0.56 | % | 0.16 | %
+Classified assets (graded substandard and doubtful) | $ | 31,666 | $ | 35,600 | $ | 54,076
+Portion of nonaccrual loans guaranteed by government agencies | $ | 849 | $ | 862 | $ | 947
+(1) | Nonperforming assets consist of nonaccrual loans, accruing loans that are 90 days or more past due, and other real estate owned.
+(2) | Nonperforming loans consist of nonaccrual loans and accruing loans that are 90 days or more past due.
+(3) | Annualized.
+Nonaccrual loans totaled $10.5 million, an increase of $1.4 million from the prior quarter-end, primarily reflecting one new nonaccrual commercial real estate loan totaling $3.3 million, partially offset by the payoff of four nonaccrual loans totaling $1.8 million. The majority of nonperforming loans remain concentrated in the commercial real estate portfolio, while consumer and other commercial loans continue to exhibit low levels of delinquencies.
+Accruing loans past due 30-89 days totaled $12.4 million, an increase of $10.1 million from June 30, 2026, primarily due to four commercial real estate loans totaling $10.5 million that became past due, including one $8.5 million commercial real estate loan secured by a hotel. As of September 30, 2026, there was one loan totaling $623,000 that was 90 days or more past due and still accruing because the loan was in the process of collection, compared to two such loans totaling $677,000 at June 30, 2026 and two such loans totaling $395,000 at September 30, 2025.
+At September 30, 2026, the Company’s allowance for credit losses for loans was $23.7 million, or 1.10% of total loans, compared to $23.0 million, or 1.11% of total loans, at June 30, 2026 and $20.8 million, or 1.02% of total loans, at September 30, 2025. Net charge-offs totaled $13,000 for the third quarter of 2026, compared to $2.8 million in the prior quarter, and $833,000 in the third quarter of 2025. The increase in the allowance for credit losses on loans during the third quarter of 2026 was primarily driven by increases in loan portfolio volume, partially offset by modest improvements in forecast national unemployment and gross domestic product relative to the prior quarter’s forecasts. In addition, there was a $294,000 decrease in the reserve for individually evaluated loans as compared to the prior quarter, due to one nonaccrual loan payoff. The assessment of qualitative risk factor for lending policies and procedures was revised to a neutral adjustment from minor risk level in response to improvement in the underlying metrics. Other qualitative risk factor classifications remained unchanged during the quarter.
+At September 30, 2026, acquired loans, net of discounts and premiums, totaled $37.0 million, with a remaining net premium of $127,000, compared to $40.8 million, with a net premium of $245,000, at June 30, 2026, and $134.4 million, with a net discount of $146,000, at September 30, 2025. The decrease in acquired loans, net of discounts and premiums, from September 30, 2025 was primarily due to migration of $58.9 million of acquired loans to the general loan pool during the second quarter of 2026, including a $330,000 net premium, as the portfolio continued to season. Most of these loans had not been renewed or re-underwritten during the third quarter of 2026.
+Deposits and Borrowings
+Deposits increased $122.3 million, or 5.6%, to $2.3 billion at September 30, 2026, compared to $2.2 billion at June 30, 2026, and increased $64.1 million, or 2.9%, compared to $2.2 billion at September 30, 2025. Noninterest-bearing deposits totaled $574.2 million, or 25.1% of total deposits, at September 30, 2026, compared to $576.5 million, or 26.6%, at June 30, 2026, and $618.1 million, or 27.7%, at September 30, 2025. The increase in deposits from the prior quarter-end was primarily due to organic growth and the decision to retain on the Company’s balance sheet deposits previously placed with other participating banks through the IntraFi Network's Certificate of Deposit Account Registry Service (“CDARS”) and Insured Cash Sweep (“ICS”) money market programs.
+6
+We consider our deposit base to be stable and well-diversified, and we do not have any significant industry concentrations among our noninsured deposits. At September 30, 2026 and June 30, 2026, our average deposit account size (excluding public funds), calculated by dividing period-end deposits by the number of accounts with balances, was approximately $66,000 and $62,000, respectively.
+The Bank maintains a secured FHLB of San Francisco borrowing facility for up to 25% of total assets, secured by certain types of loans, with no overnight advances outstanding at September 30, 2026, compared to $25.0 million at June 30, 2026 and none at September 30, 2025. The Bank has access to borrowing capacity through unused Federal Funds lines with four correspondent banks and an approved, unused Federal Reserve discount window facility.
+Shareholders’ Equity and Capital
+Shareholders’ equity totaled $334.8 million at September 30, 2026, compared to $335.4 million at June 30, 2026 and $334.3 million at September 30, 2025. The decrease from June 30, 2026 primarily reflected $3.3 million of accrued cash dividends, partially offset by net income of $1.1 million and $1.3 million of other comprehensive income, net of taxes, primarily related to changes in unrealized gains on available-for-sale securities.
+At September 30, 2026, the Company and the Bank exceeded all regulatory capital requirements under Basel III, and the Bank met the qualifications to be a ‘‘well-capitalized’’ financial institution, as summarized in the following table:
+September 30,
+2026
+BayCom | Bank
+Tier 1 leverage ratio | 11.87 | % | 11.24 | %
+Common equity tier 1 capital ratio | 13.91 | 13.39
+Tier 1 capital ratio | 14.21 | 13.39
+Total capital ratio | 15.33 | 14.52
+Equity to total assets — end of period | 12.51 | 12.11
+Tangible equity to tangible assets — end of period (1) | 11.17 | 10.77
+(1) | Represents a non-GAAP financial measure. See “Non-GAAP Financial Measures”.
+At September 30, 2026, 202,444 shares remained available for repurchase under the Company’s current stock repurchase program. On August 19, 2026, the Company announced the declaration of a cash dividend on the Company’s common stock of $0.30 per share, which was paid on October 8, 2026 to shareholders of record as of September 10, 2026.
+About BayCom Corp
+The Company, through its wholly owned operating subsidiary, United Business Bank, offers a full range of loans, including SBA, CalCAP, FSA and USDA guaranteed loans, and deposit products and services to businesses and their affiliates in California, Washington, New Mexico, Colorado and Nevada. The Bank is an Equal Housing Lender and a member of FDIC. The Company’s common stock is listed on the NASDAQ Global Select Market under the symbol “BCML”. For more information, go to www.unitedbusinessbank.com.
+Forward-Looking Statements
+This release, as well as other public or shareholder communications by the Company, may contain forward-looking statements, including, but not limited to, (i) statements regarding the financial condition, results of operations and business of the Company, (ii) statements about the Company’s plans, objectives, expectations and intentions and other statements that are not historical facts and (iii) other statements identified by the words or phrases “may,” “believe,” “will likely result,” “are expected to,” “will continue,” “is anticipated,” “anticipate,” “expect,” “estimate,” “project,” “plan,” “intends” or similar expressions that are intended to identify “forward-looking statements” within the meaning of the Private Securities Litigation Reform Act of 1995. Forward-looking statements are not historical facts but instead are based on current beliefs and expectations of the Company’s management and are inherently subject to significant business,
+7
+economic and competitive uncertainties and contingencies, many of which are beyond the Company’s control. In addition, these forward-looking statements are subject to assumptions with respect to future business strategies and decisions that are subject to change.
+There are a number of factors that could cause actual results to differ materially from those expressed or implied by these forward-looking statements and from historical performance. Factors that could cause actual results to differ materially include, but are not limited to: the Company’s ability to successfully execute its strategic plan under its new executive leadership team and retain key employees and clients; adverse economic conditions in the Company’s local market areas or other markets where the Company has lending relationships; changes in employment levels, labor shortages, persistent inflation, recessionary pressures, or slowing economic growth; changes in interest rate levels and volatility, and the timing and pace of such changes, including actions by the Board of Governors of the Federal Reserve System (the “Federal Reserve”), which could adversely affect the Company’s revenues and expenses, the value of its assets and obligations, and the availability and cost of capital and liquidity; the impact of inflation and related monetary and fiscal policy responses, and their effect on consumer and business behavior; fiscal policy disputes or disruptions, including the effects of any federal government shutdown or delays in budget approvals; the impact of bank failures or adverse developments at other banks and related negative publicity about the banking industry on investor and depositor sentiment; review of the Company’s accounting, accounting policies and internal control over financial reporting; future acquisitions by the Company of other depository institutions or lines of business; the risks of lending and investing activities, including changes in the level and direction of loan delinquencies and write-offs and changes in estimates of the adequacy of the allowance for credit losses; the Company's ability to access cost-effective funding; fluctuations in real estate values and both residential and commercial real estate market conditions; increased competitive pressures, including repricing and competitors’ pricing initiatives, and their impact on the Company’s market position and loan and deposit products; changes in management’s business strategies, including expectations regarding key growth initiatives and strategic priorities; vulnerabilities in information systems or third-party service providers, including disruptions, breaches, or cyberattacks; environmental, social and governance matters; legislation or regulatory changes, including but not limited to changes in capital requirements, banking regulations, tax laws, or consumer protection laws; the ability to adapt to rapid technological changes, including advancements related to artificial intelligence, digital banking platforms, and cybersecurity; the potential for new or increased tariffs, trade restrictions or geopolitical tensions that could affect financial markets, global supply chains, commodity prices, or economic activity; the effects of climate change, severe weather events, natural disasters, pandemics, epidemics and other public health crises, acts of war or terrorism, domestic political unrest and other external events on the Company’s business; and other factors described in the Company’s latest Annual Report on Form 10-K and Quarterly Reports on Form 10-Q and other reports filed with or furnished to the SEC, which are available on the Company’s website at www.unitedbusinessbank.com and on the SEC's website at www.sec.gov.
+The factors listed above could materially affect the Company’s financial performance and could cause the Company’s actual results for future periods to differ materially from any opinions or statements expressed with respect to future periods in any current statements.
+The Company does not undertake - and specifically declines any obligation - to publicly release the results of any revisions that may be made to any forward-looking statements to reflect events or circumstances after the date of such statements or to reflect the occurrence of anticipated or unanticipated events, whether as a result of new information, future events or otherwise, except as may be required by law or NASDAQ rules. When considering forward-looking statements, you should keep in mind these risks and uncertainties. You should not place undue reliance on any forward-looking statement, which speaks only as of the date made.
+8
+BAYCOM CORP
+CONSOLIDATED STATEMENTS OF COMPREHENSIVE INCOME (UNAUDITED)
+(Dollars in thousands, except per share data)
+Three months ended | Nine months ended
+September 30, | June 30, | September 30, | September 30, | September 30,
+2026 | 2026 | 2025 | 2026 | 2025
+Interest income
+Loans, including fees | $ | 30,259 | $ | 28,213 | $ | 29,220 | $ | 88,050 | $ | 84,331
+Investment securities | 2,243 | 2,267 | 2,315 | 6,642 | 7,175
+Fed funds sold and interest-bearing balances in banks | 1,576 | 1,634 | 3,017 | 5,346 | 8,359
+FHLB dividends | 284 | 23 | 253 | 891 | 750
+FRB dividends | 116 | 112 | 145 | 348 | 434
+Total interest and dividend income | 34,478 | 32,249 | 34,950 | 101,277 | 101,049
+Interest expense
+Deposits | 8,799 | 8,399 | 9,777 | 26,162 | 27,669
+Subordinated debt | — | — | 1,571 | — | 3,354
+Junior subordinated debt | 119 | 119 | 193 | 628 | 577
+Other borrowings | — | 3 | — | 3 | —
+Total interest expense | 8,918 | 8,521 | 11,541 | 26,793 | 31,600
+Net interest income | 25,560 | 23,728 | 23,409 | 74,484 | 69,449
+Provision for credit losses | 843 | 5,241 | 2,973 | 5,414 | 3,818
+Net interest income after provision for credit losses | 24,717 | 18,487 | 20,436 | 69,070 | 65,631
+Noninterest (loss) income
+Gain on sale of loans | 113 | 89 | — | 325 | 251
+(Loss) gain on equity securities | (589) | 95 | 771 | (436) | 523
+Loss on sale of AFS securities | (6,832) | — | — | (6,832) | —
+Service charges and other fees | 791 | 875 | 825 | 2,407 | 2,683
+Loan servicing fees and other fees | 505 | 353 | 403 | 1,145 | 1,308
+Loss on investment in SBIC fund | (75) | (193) | (29) | (183) | (365)
+Other income and fees | 279 | 267 | 278 | 797 | 801
+Total noninterest (loss) income | (5,808) | 1,486 | 2,248 | (2,777) | 5,201
+Noninterest expense
+Salaries and employee benefits | 11,222 | 21,049 | 10,168 | 43,120 | 29,831
+Occupancy and equipment | 2,177 | 2,085 | 2,143 | 6,389 | 6,462
+Data processing | 2,071 | 2,039 | 2,038 | 6,148 | 5,804
+Other expense | 2,190 | 1,985 | 1,597 | 5,667 | 5,592
+Total noninterest expense | 17,660 | 27,158 | 15,946 | 61,324 | 47,689
+Income (loss) before provision for income taxes (benefits) expense | 1,249 | (7,185) | 6,738 | 4,969 | 23,143
+Provision for income taxes (benefits) expense | 104 | (223) | 1,731 | 2,606 | 6,070
+Net income (loss) | $ | 1,145 | $ | (6,962) | $ | 5,007 | $ | 2,363 | $ | 17,073
+Net income (loss) per common share:
+Basic | $ | 0.10 | $ | (0.64) | $ | 0.46 | $ | 0.22 | $ | 1.55
+Diluted | 0.10 | (0.64) | 0.46 | 0.22 | 1.55
+Weighted average shares used to compute net income per common share:
+Basic | 10,920,117 | 10,909,317 | 10,929,779 | 10,912,877 | 11,022,179
+Diluted | 10,920,117 | 10,909,317 | 10,929,779 | 10,912,877 | 11,022,179
+Comprehensive income (loss)
+Net income (loss) | $ | 1,145 | $ | (6,962) | $ | 5,007 | $ | 2,363 | $ | 17,073
+Other comprehensive income (loss):
+Change in unrealized gain on available-for-sale securities | 1,786 | 653 | 3,296 | 2,758 | 7,328
+Deferred income tax (expense) benefit | (498) | (182) | (1,136) | (659) | (2,284)
+Other comprehensive income, net of tax | 1,288 | 471 | 2,160 | 2,099 | 5,044
+Comprehensive income (loss) | $ | 2,433 | $ | (6,491) | $ | 7,167 | $ | 4,462 | $ | 22,117
+9
+BAYCOM CORP
+CONSOLIDATED STATEMENTS OF CONDITION (UNAUDITED)
+(Dollars in thousands)
+September 30, | June 30, | September 30,
+2026 | 2026 | 2025
+Assets
+Cash and due from banks | $ | 22,552 | $ | 21,758 | $ | 21,731
+Federal funds sold and interest-bearing balances in banks | 195,924 | 155,624 | 206,715
+Cash and cash equivalents | 218,476 | 177,382 | 228,446
+Investment securities available-for-sale ("AFS"), at fair value, net of allowance for credit losses of $0 at September 30, 2026, June 30, 2026 and September 30, 2025 | 171,735 | 182,710 | 187,774
+Equity securities, at fair value | 2,664 | 11,707 | 13,307
+Federal Home Loan Bank ("FHLB") stock, at par | 12,046 | 12,046 | 11,524
+Federal Reserve Bank ("FRB") stock, at par | 7,767 | 7,733 | 9,657
+Loans held for sale | 2,433 | — | 421
+Loans, net of deferred fees | 2,152,440 | 2,075,229 | 2,042,337
+Allowance for credit losses for loans | (23,700) | (22,950) | (20,800)
+Premises and equipment, net | 13,070 | 13,132 | 13,577
+Core deposit intangible | 1,404 | 1,518 | 1,945
+Cash surrender value of bank owned life insurance policies, net | 24,948 | 24,746 | 24,162
+Right-of-use assets | 13,895 | 14,730 | 13,476
+Goodwill | 38,838 | 38,838 | 38,838
+Interest receivable and other assets | 40,375 | 43,260 | 39,123
+Total Assets | $ | 2,676,391 | $ | 2,580,081 | $ | 2,603,787
+Liabilities and Shareholders’ Equity
+Noninterest-bearing deposits | $ | 574,208 | $ | 576,535 | $ | 618,055
+Interest-bearing deposits
+Transaction accounts and savings | 723,717 | 722,350 | 643,908
+Premium money market | 472,658 | 410,099 | 398,876
+Time deposits | 521,604 | 460,934 | 567,213
+Total deposits | 2,292,187 | 2,169,918 | 2,228,052
+Other borrowings | — | 25,000 | —
+Junior subordinated deferrable interest debentures, net | 5,903 | 5,888 | 8,706
+Subordinated debt, net | — | — | —
+Salary continuation plans | 5,242 | 5,235 | 4,991
+Lease liabilities | 14,861 | 15,692 | 14,494
+Interest payable and other liabilities | 23,379 | 22,958 | 13,275
+Total Liabilities | 2,341,572 | 2,244,691 | 2,269,518
+Shareholders’ Equity
+Common stock, no par value | 167,912 | 167,639 | 166,920
+Accumulated other comprehensive loss, net of tax | (4,535) | (5,823) | (7,962)
+Retained earnings | 171,442 | 173,574 | 175,311
+Total Shareholders’ Equity | 334,819 | 335,390 | 334,269
+Total Liabilities and Shareholders’ Equity | $ | 2,676,391 | $ | 2,580,081 | $ | 2,603,787
+10
+BAYCOM CORP
+FINANCIAL HIGHLIGHTS (UNAUDITED)
+(Dollars in thousands, except per share data)
+At and for the three months ended | At and for the nine months ended
+September 30, | June 30, | September 30, | September 30, | September 30,
+Selected Financial Ratios and Other Data: | 2026 | 2026 | 2025 | 2026 | 2025
+Performance Ratios:
+Return on average assets (1) | 0.18 | % | (1.09) | % | 0.75 | % | 0.12 | % | 0.86 | %
+Return on average equity (1) | 1.36 | (8.04) | 5.99 | 0.92 | 6.80
+Return on average tangible common equity (1) (3) | 1.54 | (9.10) | 6.82 | 1.04 | 7.84
+Yield earned on average interest-earning assets (1) | 5.54 | 5.36 | 5.49 | 5.51 | 5.47
+Rate paid on average interest-bearing liabilities (1) | 2.15 | 2.14 | 2.73 | 2.19 | 2.59
+Interest rate spread - average during the period (1) | 3.39 | 3.22 | 2.76 | 3.32 | 2.88
+Net interest margin (1) | 4.11 | 3.95 | 3.68 | 4.06 | 3.76
+Cost of deposits (1) | 1.57 | 1.56 | 1.74 | 1.59 | 1.70
+Loan to deposit ratio | 93.90 | 95.64 | 91.66 | 93.90 | 91.66
+Efficiency ratio (2) | 89.41 | 107.71 | 62.15 | 85.52 | 63.88
+Per Share Data:
+Shares outstanding at end of period | 10,920,117 | 10,909,317 | 10,916,792 | 10,920,117 | 10,916,792
+Average diluted shares outstanding | 10,920,117 | 10,909,317 | 10,929,779 | 10,912,877 | 11,022,179
+Diluted earnings (loss) per share | $ | 0.10 | $ | (0.64) | $ | 0.46 | $ | 0.22 | $ | 1.55
+Book value per share | 30.66 | 30.74 | 30.62 | 30.66 | 30.62
+Tangible book value per share (3) | 26.98 | 27.04 | 26.88 | 26.98 | 26.88
+Capital Ratios:
+Tier 1 leverage ratio — Bank (4) | 11.24 | % | 11.66 | % | 10.88 | %
+Common equity tier 1 capital ratio — Bank (4) | 13.39 | % | 13.76 | % | 13.54 | %
+Tier 1 capital ratio — Bank (4) | 13.39 | % | 13.76 | % | 13.54 | %
+Total capital ratio — Bank (4) | 14.52 | % | 14.87 | % | 14.56 | %
+Equity to total assets — end of period | 12.51 | % | 13.00 | % | 12.84 | %
+Tangible equity to tangible assets — end of period (3) | 11.17 | % | 11.62 | % | 11.45 | %
+Other Data:
+Number of full-service offices | 34 | 34 | 34
+Number of full-time equivalent employees | 323 | 329 | 334
+(1) | Annualized.
+(2) | Total noninterest expense as a percentage of net interest income and total noninterest income.
+(3) | Represents a non-GAAP financial measure. See “Non-GAAP Financial Measures” below.
+(4) | Regulatory capital ratios are for United Business Bank only.
+11
+Non-GAAP Financial Measures:
+In addition to results presented in accordance with generally accepted accounting principles in the United States (“GAAP”), this earnings release contains return on average tangible common equity, tangible book value per share and tangible equity to tangible assets, each of which is a non-GAAP financial measure. Return on average tangible common equity is calculated by dividing net income for the period by average tangible common shareholders’ equity for the period. Tangible book value per share is calculated by dividing tangible common shareholders’ equity by the number of common shares outstanding at the end of the period. Tangible equity to tangible assets is calculated by dividing tangible common shareholders’ equity by tangible assets. Tangible common shareholders’ equity and average tangible common shareholders’ equity exclude intangible assets from shareholders’ equity, and tangible assets exclude intangible assets from total assets. For these financial measures, the Company’s intangible assets are goodwill and core deposit intangibles. The Company believes that these measures are consistent with the capital treatment by its bank regulatory agencies, which exclude intangible assets from the calculation of risk-based capital ratios, and presents these measures to facilitate comparison of the quality and composition of the Company’s capital, and the return generated on that capital, over time and to its peers. Non-GAAP financial measures have inherent limitations and are not required to be uniformly applied. Further, these non-GAAP financial measures should not be considered in isolation or as a substitute for the comparable financial measures determined in accordance with GAAP and may not be comparable to similarly titled measures reported by other companies.
+A reconciliation of these non-GAAP financial measures to the most directly comparable GAAP measures is included below:
+Non-GAAP Measures
+(Dollars in thousands, except per share data)
+September 30, | June 30, | September 30,
+2026 | 2026 | 2025
+Tangible Book Value:
+Total equity and common shareholders’ equity (GAAP) | $ | 334,819 | $ | 335,390 | $ | 334,269
+less: Goodwill and other intangibles | 40,242 | 40,356 | 40,783
+Tangible equity and common shareholders’ equity (Non-GAAP) | $ | 294,577 | $ | 295,034 | $ | 293,486
+Total assets (GAAP) | $ | 2,676,391 | $ | 2,580,081 | $ | 2,603,787
+less: Goodwill and other intangibles | 40,242 | 40,356 | 40,783
+Total tangible assets (Non-GAAP) | $ | 2,636,149 | $ | 2,539,725 | $ | 2,563,004
+Equity to total assets (GAAP) | 12.51 | % | 13.00 | % | 12.84 | %
+Tangible equity to tangible assets (Non-GAAP) | 11.17 | % | 11.62 | % | 11.45 | %
+Return on average equity (GAAP) | 1.36 | % | (8.04) | % | 5.99 | %
+Return on average tangible common equity (Non-GAAP) | 1.54 | % | (9.10) | % | 6.82 | %
+Book value per share (GAAP) | $ | 30.66 | $ | 30.74 | $ | 30.62
+Tangible book value per share (Non-GAAP) | $ | 26.98 | $ | 27.04 | $ | 26.88
+CONTACT:
+BayCom Corp
+Kevin L. Thompson, 925-476-4019
+klthompson@ubb-us.com
+Source: BayCom Corp
+12
