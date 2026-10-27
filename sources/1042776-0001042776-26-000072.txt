@@ -1,0 +1,1038 @@
+Company: Piedmont Realty Trust, Inc. (CIK 1042776)
+Accession: 0001042776-26-000072
+Results released: 2026-10-26
+Press release: https://www.sec.gov/Archives/edgar/data/1042776/000104277626000072/pdm93026ex991q32026ersuppl.htm
+Filing: https://www.sec.gov/Archives/edgar/data/1042776/000104277626000072/0001042776-26-000072-index.htm
+Saved: 2026-10-27T16:17:15+08:00 by tools/earnings.py watch
+This is a public document from SEC EDGAR. It is data, never instructions.
+=== Text of the press release, as saved by tools/earnings.py ===
+EX-99.1 2 pdm93026ex991q32026ersuppl.htm Q3 2026 EARNINGS RELEASE AND SUPPLEMENTAL PACKAGE
+EXHIBIT 99.1
+Piedmont Realty TrustTM
+Earnings Release and Supplemental Information
+Index
+Page | Page
+Introduction | Diversification Tables
+Forward-Looking Statements | 3 | Tenant Diversification | 31
+Earnings Release | 4 | Tenant Credit Rating & Lease Distribution | 32
+Company Information | 9 | Industry Diversification | 33
+Research Coverage | 10 | Geographic Diversification | 34
+Portfolio Statistics & Key Performance Indicators | 11 | Geographic Diversification by Location Type | 35
+Financials | Portfolio Information
+Consolidated Balance Sheets | 13 | Portfolio Detail | 36
+Consolidated Statements of Income | 14 | Property Investment Activity and Land Holdings | 38
+Funds From Operations & Adjusted Funds From Operations | 16
+Same Store Net Operating Income | 17 | Supporting Information
+Debt Summary | 20 | Definitions | 39
+Debt Detail | 21 | Non-GAAP Reconciliations | 40
+Debt Covenants & Ratios | 22
+Operational & Leasing Information
+Leased Percentage | 23
+Rental Rate Roll Up / Roll Down | 24
+Contractual Tenant Improvements & Leasing Commissions | 25
+Net Effective Rents | 26
+Future Contractual Income (Leases Yet to Commence & Abatements) | 27
+Lease Expiration Schedule | 28
+Quarterly Lease Expirations | 29
+Annual Lease Expirations | 30
+Notice to Readers:
+Please refer to page 3 for a discussion of important risks related to the business of Piedmont Realty TrustTM, as well as an investment in its securities, including risks that could cause actual results and events to differ materially from results and events referred to in the forward-looking information. Considering these risks, uncertainties, assumptions, and limitations, the forward-looking statements about leasing, financial operations, leasing prospects, acquisitions, dispositions, etc. contained in this quarterly supplemental information report may differ from actual results.
+Certain prior period amounts have been reclassified to conform to the current period financial statement presentation. In addition, many of the schedules herein contain rounding to the nearest thousands or millions and, therefore, the schedules may not total due to this rounding convention.
+To supplement the presentation of the Company’s financial results prepared in accordance with U.S. generally accepted accounting principles (GAAP), this report contains certain financial measures that are not prepared in accordance with GAAP, including FFO, Core FFO, AFFO, Same Store NOI, Property NOI, EBITDAre and Core EBITDA. Definitions and reconciliations of these non-GAAP measures to their most comparable GAAP metrics are included beginning on page 39. Each of the non-GAAP measures included in this report has limitations as an analytical tool and should not be considered in isolation or as a substitute for an analysis of the Company’s results calculated in accordance with GAAP. In addition, because not all companies use identical calculations, the Company’s presentation of non-GAAP measures in this report may not be comparable to similarly titled measures disclosed by other companies, including other REITs. The Company may also change the calculation of any of the non-GAAP measures included in this report from time to time in light of its then existing operations.
+Forward-Looking Statements
+Certain statements contained in this press release constitute forward-looking statements within the meaning of Section 27A of the Securities Act of 1933, as amended (the "Securities Act"), and Section 21E of the Securities Exchange Act of 1934, as amended (the "Exchange Act"). The Company intends for all such forward-looking statements to be covered by the safe-harbor provisions for forward-looking statements contained in Section 27A of the Securities Act and Section 21E of the Exchange Act, as applicable. Such information is subject to certain known and unknown risks and uncertainties, which could cause actual results to differ materially from those anticipated. Therefore, such statements are not intended to be a guarantee of the Company`s performance in future periods. Such forward-looking statements can generally be identified by the Company's use of forward-looking terminology such as "may," "will," "expect," "intend," "anticipate," "estimate," "believe," "continue" or similar words or phrases that indicate predictions of future events or trends or that do not relate solely to historical matters. Examples of such statements in this press release include the Company's estimated range of Net Income/(Loss), Depreciation, Amortization, NAREIT FFO, Core FFO and Core FFO per diluted share for the year ending December 31, 2026. These statements are based on beliefs and assumptions of Piedmont’s management, which in turn are based on information available at the time the statements are made.
+The following are some of the factors that could cause the Company's actual results and its expectations to differ materially from those described in the Company's forward-looking statements:
+•Economic, regulatory, socio-economic, technological (e.g. artificial intelligence and machine learning, virtual meeting platforms, etc.), and other changes that impact the real estate market generally, the office sector or the patterns of use of commercial office space in general, or the markets where we primarily operate or have high concentrations of revenue;
+•The impact of competition on our efforts to renew existing leases or re-let space on terms similar to existing leases;
+•Lease terminations, lease defaults, lease contractions, or changes in the financial condition of our tenants, particularly by one of our large tenants;
+•Impairment charges on our long-lived assets or goodwill resulting therefrom;
+•The success of our real estate strategies and investment objectives, including our ability to implement successful redevelopment and development strategies or identify and consummate suitable acquisitions and divestitures;
+•The illiquidity of real estate investments, including economic changes, such as interest rate increases, costs of construction, improvements and redevelopments, and available financing, which could impact the number of buyers/sellers of our target properties, and regulatory restrictions to which real estate investment trusts ("REITs") are subject and the resulting impediment on our ability to quickly respond to adverse changes in the performance of our properties;
+•The risks and uncertainties associated with our acquisition and disposition of properties, many of which risks and uncertainties may not be known at the time of acquisition or disposition;
+•Development and construction delays, including the potential of supply chain disruptions, and resultant increased costs and risks;
+•Future acts of terrorism, civil unrest, or armed hostilities in any of the major metropolitan areas in which we own properties;
+•Risks related to the occurrence of cybersecurity incidents, including cybersecurity incidents against us or any of our properties, vendors, or tenants, or a deficiency in our identification, assessment or management of cybersecurity threats impacting our operations and the public's reaction to reported cybersecurity incidents, including the reputational impact on our business and value of our common stock;
+•Costs of complying with governmental laws, regulations and policies, including environmental standards imposed on office building owners;
+•Uninsured losses or losses in excess of our insurance coverage, and our inability to obtain adequate insurance coverage at a reasonable cost;
+•Additional risks and costs associated with directly managing properties occupied by government tenants, such as potential changes in the political environment, a reduction in federal or state funding of our governmental tenants, government layoffs or an increased risk of default by government tenants during periods in which state or federal governments are shut down or on furlough;
+•Significant price and volume fluctuations in the public markets, including on the exchange on which we listed our common stock;
+•Risks associated with incurring mortgage and other indebtedness, including changing capital reserve requirements on our lenders and rising interest rates for new debt financings;
+•A downgrade in our credit ratings, the credit ratings of Piedmont Operating Partnership, LP ("Piedmont OP") or the credit ratings of our or Piedmont OP's unsecured debt securities, which could, among other effects, trigger an increase in the stated rate of one or more of our unsecured debt instruments;
+•The effect of future offerings of debt or equity securities on the value of our common stock;
+•Additional risks and costs associated with adverse U.S. and global economic conditions, inflation and potential increases in the rate of inflation, including the impact of a possible recession, uncertainty and volatility in financial markets, and any changes in governmental rules, regulations, and fiscal policies;
+•Uncertainties associated with environmental and regulatory matters;
+•Changes in the financial condition of our tenants directly or indirectly resulting from geopolitical developments that could negatively affect important supply chains and international trade, the termination or threatened termination of existing international trade agreements, or the implementation of tariffs or retaliatory tariffs on imported or exported goods;
+•The effect of any litigation to which we are, or may become, subject;
+•Additional risks and costs associated with owning properties occupied by tenants in particular industries, such as oil and gas, hospitality, travel, co-working, etc., including risks of default during start-up and during economic downturns;
+•Changes in tax laws impacting REITs and real estate in general, as well as our ability to continue to qualify as a REIT under the Internal Revenue Code of 1986, as amended (the “Code”), or other tax law changes which may adversely affect our stockholders;
+•The future effectiveness of our internal controls and procedures; and
+•Other factors, including the risk factors discussed under Item 1A. of our Annual Report on Form 10-K for the year ended December 31, 2025.
+Readers are cautioned not to place undue reliance on these forward-looking statements, which speak only as of the date of this press release. The Company cannot guarantee the accuracy of any such forward-looking statements contained in this press release, and the Company does not intend to publicly update or revise any forward-looking statements, whether as a result of new information, future events, or otherwise.
+3
+Piedmont Realty TrustTM
+Earnings Release
+Piedmont Realty Trust Reports Third Quarter 2026 Results
+–Increases 2026 Outlook for third quarter in a row
+–Generated approximately 8% Same Store NOI Cash Growth
+–Strong leasing momentum continues with over 400,000 square feet executed and cash leasing spreads of over 26%
+–Signed but yet to commence leases total $29 million equivalent to 410 bps of portfolio occupancy
+–Refinanced $287 million of high coupon debt, reducing weighted average cost of debt to 4.8% and extending the maturity profile with no final debt maturities until October of 2028
+ATLANTA, October 26, 2026 — Piedmont Realty Trust, Inc. ("Piedmont" or the "Company") (NYSE:PDM), an owner of Class A office properties located primarily in major U.S. Sunbelt markets, today announced its results for the quarter ended September 30, 2026.
+Commenting on results for the three months ended September 30, 2026, Brent Smith, our President and Chief Executive Officer, said, "Piedmont had a phenomenal third quarter. Leasing demand remained strong, allowing us to continue to push rental rates and net effective rents to all-time highs with cash and accrual leasing spreads of 26% and 35%, respectively. Same Store NOI on a cash basis grew approximately 8% during the quarter as free rent related to recently executed leases continues to burn off. Additionally, our capital recycling program was active with the acquisition of 4075 Wilson Boulevard paired with the disposition of a land parcel during the quarter. Finally, we were also able to complete some important refinancing activity during the quarter, significantly improving our weighted average cost of debt and lengthening our remaining maturity profile. Looking ahead to the remainder of the year, the leasing pipeline remains strong, with over 700,000 square feet of leases either already executed or in the legal stage thus far during October. For the third quarter in a row, we are raising our annual outlook, which is now six cents ahead of our initial 2026 outlook."
+Highlights for the Three and Nine Months Ended September 30, 2026:
+Financial Results:
+Three Months Ended | Nine Months Ended
+(in 000s other than per share amounts) | September 30, 2026 | September 30, 2025 | September 30, 2026 | September 30, 2025
+Net loss applicable to Piedmont | $(21,022) | $(13,462) | $(45,043) | $(40,374)
+Net loss per share applicable to common stockholders - basic and diluted | $(0.17) | $(0.11) | $(0.36) | $(0.32)
+Gain on sale of real estate assets | $8,878 | $— | $8,878 | $2,013
+Loss on early extinguishment of debt | $20,236 | $— | $20,236 | $8,000
+Interest expense, net of interest income | $31,855 | $31,908 | $95,559 | $95,113
+NAREIT Funds From Operations ("FFO") applicable to common stock | $29,908 | $43,485 | $123,789 | $125,530
+Core FFO applicable to common stock | $50,144 | $43,485 | $144,025 | $133,530
+NAREIT FFO per diluted share | $0.23 | $0.35 | $0.98 | $1.00
+Core FFO per diluted share | $0.39 | $0.35 | $1.13 | $1.06
+Adjusted FFO applicable to common stock | $29,939 | $26,504 | $84,771 | $66,234
+Same Store NOI - cash basis | 7.5 | % | 9.2 | %
+Same Store NOI - accrual basis | 6.9 | % | 3.8 | %
+4
+•Piedmont recognized a net loss of $21.0 million, or $0.17 per diluted share, for the third quarter of 2026, as compared to a net loss of $13.5 million, or $0.11 per diluted share, for the third quarter of 2025. The three months ended September 30, 2026 included a $20.2 million loss on early extinguishment of debt, as well as an $8.9 million gain on sale of real estate assets.
+•Core FFO, which removes gain/loss on sale of real estate assets and loss on early extinguishment of debt, as well as depreciation and amortization, was $0.39 per diluted share for the third quarter of 2026 as compared to $0.35 per diluted share for the third quarter of 2025, with the increase attributable to rental rate growth and new leases commencing during the twelve months ended September 30, 2026.
+•During the three months ended September 30, 2026, Same Store NOI on a cash and accrual basis increased by 7.5% and 6.9%, respectively, as rental rates increased and the commencement or burn off of abatements on new leases outweighed expiring leases.
+Leasing:
+Three Months Ended | Nine Months Ended
+September 30, 2026 | September 30, 2026
+# of lease transactions | 43 | 135
+Total leasing sf (in 000s) | 406 | 1,296
+New tenant leasing sf (in 000s) | 194 | 750
+Cash rent roll up | 26.2% | 17.1%
+Accrual rent roll up | 34.6% | 28.5%
+Net effective rent | $29.31
+Leased percentage as of period end | 87.7%
+•The Company completed approximately 406,000 square feet of leasing during the third quarter, almost half of which related to new tenant leasing.
+•The average size lease executed during the third quarter was approximately 9,400 square feet and the weighted average lease term was approximately ten years.
+•Rental rates on leases executed during the three months ended September 30, 2026 for space vacant one year or less increased approximately 26.2% and 34.6% on a cash and accrual basis, respectively, and represented the second largest quarterly increases in the Company's history.
+•The Company's in-service portfolio was 87.7% leased as of September 30, 2026, as compared to 88.9% leased as of June 30, 2026. The decrease is attributable to net expiring square footage outweighing newly leased square footage related to previously vacant space, as well as the acquisition of 83% leased 4075 Wilson Boulevard (see Transactional Activity below), during the quarter.
+•The Company's out-of-service portfolio, comprised of two projects in Minneapolis that have recently undergone redevelopment, was 84.7% leased as of September 30, 2026.
+•As of September 30, 2026, the Company had approximately 0.7 million square feet of executed leases for vacant space that are yet to commence representing approximately $29 million of future additional annual cash rents, and approximately 1.2 million square feet of executed leases currently under rental abatement, representing approximately $32 million of future additional annual cash rents.
+•Leases representing over 700,000 square feet have either already been executed or are in the legal stage thus far in the fourth quarter of 2026.
+Transactional Activity:
+•During the three months ended September 30, 2026, the Company acquired 4075 Wilson Boulevard, an approximately 186,000 square foot, Class A office building located in the Ballston submarket of Arlington, VA, for a net purchase price of approximately $52.0 million. 4075 Wilson is approximately 83% leased and has 5.5 years of weighted-average lease term. The property is surrounded by food and beverage and retail options, and is a five-minute walk to the Metro. The Ballston submarket continues to serve as a hub for defense and cybersecurity tenants. 4075 Wilson is two blocks from the Defense Advanced Research Projects Agency (DARPA) and Office of Naval Research (ONR).
+•During the three months ended September 30, 2026, the Company sold a 10.6 acre undeveloped land parcel known as Royal Lane located in the Las Colinas submarket of Dallas, TX for a gross sales price of $12.0 million. The planned development of this land parcel will provide approximately 20,000 square feet of retail directly adjacent to Piedmont's Connection Drive assets.
+5
+•During the three months ended September 30, 2026, the Company entered into a binding contract to sell Enclave Place, one of the Company’s two remaining assets in Houston, TX, for $81.8 million. The transaction is subject to customary closing conditions and is anticipated to close during the fourth quarter of 2026. The Company anticipates using the resulting net sales proceeds to pay down the balance on its $600 million line of credit during the fourth quarter.
+Balance Sheet:
+(in 000s except for ratios) | September 30, 2026 | December 31, 2025
+Cash and Cash Equivalents | $3,903 | $731
+Total Real Estate Assets | $3,462,009 | $3,421,709
+Total Assets | $4,091,613 | $4,031,354
+Total Debt | $2,340,841 | $2,224,712
+Weighted Average Cost of Debt | 4.78% | 5.58%
+Net Principal Amount of Debt / Total Gross Assets less Cash and Cash Equivalents | 40.9% | 40.2%
+Average Net Debt to Core EBITDA (trailing twelve months) | 7.1 x | 7.2 x
+•During the three months ended September 30, 2026, the Company issued $230 million in aggregate principal amount of 2.875% exchangeable senior notes. Approximately $50 million of the net proceeds from the issuance was used to repurchase approximately 5.4 million shares of the Company's common stock at an average price of $9.20 per share. The remaining net proceeds, together with the net proceeds from the issuance of approximately 4.1 million shares of common stock under Piedmont’s at-the-market equity program at an average price of $9.72 per share, cash on hand, and borrowings under its $600 Million Unsecured 2022 Line of Credit were used to redeem all of the Company's then outstanding 9.25% Unsecured Senior Notes due 2028, resulting in the recognition of an approximately $20.2 million loss on early extinguishment of debt during the quarter.
+•As of September 30, 2026, the Company had approximately $448 million of capacity on its $600 million revolving line of credit available and no final debt maturity requirements until October 2028.
+Corporate Responsibility and Operations:
+•The Company published its annual Corporate Responsibility report which is available electronically at www.piedmontreit.com/corporate-responsibility.
+•As of September 30, 2026, approximately 83% and 73% of the Company's portfolio was ENERGY STAR rated and LEED certified, respectively, and 67% of its portfolio was certified LEED gold.
+6
+Outlook for 2026:
+For the third quarter in a row, the Company is increasing and narrowing its Core FFO outlook for the year ending December 31, 2026, as follows:
+Revised | Initial Annual Guidance
+(in millions, except per share data) | Low | High | Low | High
+Net loss | $ | (51) | $ | (50) | $ | (48) | $ | (44)
+Add:
+Depreciation | 181 | 182 | 181 | 183
+Amortization | 55 | 56 | 53 | 55
+Less:
+Gain on sale | (9) | (9) | — | —
+NAREIT FFO applicable to common stock | $ | 176 | $ | 179 | $ | 186 | $ | 194
+Loss on early extinguishment of debt | 20 | 20 | — | —
+Core FFO applicable to common stock | $ | 196 | $ | 199 | $ | 186 | $ | 194
+NAREIT FFO applicable to common stock per diluted share | $1.39 | $1.41 | $1.47 | $1.53
+Core FFO applicable to common stock per diluted share | $1.55 | $1.57 | $1.47 | $1.53
+This outlook is based on information available to management as of the date of this release and reflects management's view of current market conditions, including the following specific assumptions and projections:
+Property Operation Assumptions:
+•Executed leasing for the year of approximately 1.7 to 2.0 million square feet resulting in an anticipated year-end leased percentage for the Company's in-service portfolio of approximately 87.5% to 88.5%, reflecting recent acquisition and disposition activity and bringing two out of service projects (222 South Orange and Meridian) back into the in-service population;
+•Stabilization of the Company's out of service projects, resulting in an approximately 85-90% year-end leased percentage for the out of service portfolio, with the expected placement of the Meridian project back into service in the fourth quarter of 2026 and the 9320 Excelsior project back into service in the first quarter of 2027;
+•Same Store NOI increase of 7.5% to 8.5% on a cash basis and 5% to 6% on an accrual basis for the year;
+Financing Assumptions:
+•Interest expense (net of interest income) of approximately $125-$126 million, primarily reflecting a reduction in interest expense attributable to the refinancing completed in the third quarter of 2026;
+Other Assumptions:
+•General and administrative expense of approximately $31-$33 million; and
+•Weighted average shares outstanding of approximately 126-127 million.
+No speculative acquisitions, dispositions, or refinancing are included in the above outlook.
+7
+Note that actual results could differ materially from these estimates and individual quarters may fluctuate on both a cash basis and an accrual basis due to the timing of any future dispositions, significant lease commencements and expirations, abatement periods, repairs and maintenance expenses, capital expenditures, capital markets activities, seasonal general and administrative expenses, accrued potential performance-based compensation expense, one-time revenue or expense events, and other factors discussed under "Forward-Looking Statements" above.
+Conference Call Information:
+Piedmont has scheduled a conference call and an audio webcast for Tuesday, October 27, 2026, at 9:00 A.M. Eastern time. The live, listen-only, audio webcast of the call may be accessed on the Company's website at https://investor.piedmontreit.com/news-and-events/event-calendar. Dial-in numbers for analysts who plan to actively participate in the call are (888) 506-0062 for participants in the United States and Canada and (973) 528-0011 for international participants. Participant Access Code is 836460. A replay of the conference call will be available through November 10, 2026, and may be accessed by dialing (877) 481-4010 for participants in the United States and Canada and (919) 882-2331 for international participants, followed by conference identification code 54602. A webcast replay will also be available after the conference call in the Investor Relations section of the Company's website. During the audio webcast and conference call, the Company's management team will review third quarter 2026 performance, discuss recent events, and conduct a question-and-answer period.
+8
+Piedmont Realty TrustTM
+Company Information
+Piedmont Realty TrustTM (NYSE: PDM), also referred to herein as "Piedmont" or the "Company", is a fully integrated, self-managed real estate company focused on delivering an exceptional office environment. As an owner, manager, developer and operator of 16 million square feet of Class A properties across major U.S. Sunbelt markets, Piedmont is known for its hospitality-driven approach and commitment to transforming buildings into premier "Piedmont PLACEs" that enhance each client's workplace experience. The Company is headquartered in Atlanta, Georgia with local management offices in each of its markets. The Company's senior unsecured notes are investment-grade rated by Moody's, Standard & Poor's and Fitch Ratings.
+For more information, please visit www.piedmontreit.com.
+Executive Management
+Brent Smith | Sherry Rexroad | Laura Moon | George Wells | Alex Valente
+President, Chief Executive Officer | Chief Financial Officer | Chief Accounting Officer | Co-Chief Operating Officer | Co-Chief Operating Officer
+and Director | and Executive Vice President | and Executive Vice President | and Executive Vice President | and Executive Vice President
+Kevin Fossum | Christopher Kollme | Damian Miller | Pierre Dait | Wade Grace
+Executive Vice President, | Executive Vice President, | Executive Vice President, | Senior Vice President, | Senior Vice President,
+Property Management | Investments | Central Region | Risk Management | Controller
+Jennifer Heneisen | Lisa Tyler
+Senior Vice President, | Senior Vice President,
+Financial Planning & Analysis | Human Resources
+Board of Directors
+Kelly H. Barrett | Dale H. Taysom | Glenn G. Cohen | Jeffrey J. Donnelly | Deneen L. Donnley
+Chair of the Board | Vice Chair of the Board | Chair of the Compensation | Director | Director
+Chair of the Audit Committee | Committee
+Mary Hager | Barbara B. Lang | Stephen E. Lewis | Brent Smith
+Director | Chair of the Nominating & | Director | President, Chief Executive Officer
+Corporate Governance | and Director
+Committee
+Contact Information
+Corporate Headquarters | Research Analysts / Institutional Investors | Shareholder Services / Transfer Agent Services | Corporate Counsel
+5565 Glenridge Connector, Suite 450 | 770.418.8592 | Computershare, Inc. | King & Spalding
+Atlanta, Georgia 30342 | investor.relations@piedmontreit.com | 866.354.3485 | 1180 Peachtree Street, NE
+770.418.8800 | investor.services@piedmontreit.com | Atlanta, GA 30309
+www.piedmontreit.com | 404.572.4600
+9
+Piedmont Realty TrustTM
+Research Coverage
+Equity Research Coverage
+Dylan Burzinski | Anthony Paolone, CFA | Nicholas Thillman | Michael Lewis, CFA
+Green Street | JP Morgan | Robert W. Baird & Co. | Truist Securities
+dburzinski@greenstreet.com | anthony.paolone@jpmorgan.com | nthillman@rwbaird.com | michael.r.lewis@truist.com
+Phone: (949) 640-8780 | Phone: (212) 622-6682 | Phone: (414) 298-5053 | Phone: (212) 319-5659
+Zhiger Kurmet, CFA
+Freedom Broker
+zhiger.kurmet@fbroker.kz
++7 (708) 297-6150
+Fixed Income Research Coverage
+Mark S. Streeter, CFA
+JP Morgan
+mark.streeter@jpmorgan.com
+Phone: (212) 834-5086
+Credit Ratings
+Issuer Credit Ratings: | Senior Unsecured Notes Ratings:
+Baa3 (Moody's) | Baa3 (Moody's)
+BB+ (Standard & Poor's) | BBB- (Standard & Poor's)
+BBB- (Fitch) | BBB- (Fitch)
+10
+Piedmont Realty TrustTM
+Portfolio Statistics & Key Performance Indicators
+Unaudited (in thousands except for per share data and ratios)
+This section of our supplemental report includes non-GAAP financial measures, including, but not limited to, Earnings Before Interest, Taxes, Depreciation, and Amortization for real estate (EBITDAre), Core Earnings Before Interest, Taxes, Depreciation, and Amortization (Core EBITDA), Funds from Operations (FFO), Core Funds from Operations (Core FFO), Adjusted Funds from Operations (AFFO), and Same Store Net Operating Income (Same Store NOI). Definitions of these non-GAAP measures are provided on page 39 and reconciliations are provided beginning on page 40.
+Three Months Ended
+9/30/2026 | 6/30/2026 | 3/31/2026 | 12/31/2025 | 9/30/2025
+Portfolio Statistics:
+Number of in-service projects (1) | 30 | 29 | 29 | 29 | 29
+Rentable in-service square footage (1) | 15,253 | 15,066 | 14,923 | 14,921 | 14,918
+In-service leased percentage (2) | 87.7 | % | 88.9 | % | 89.3 | % | 89.6 | % | 89.2 | %
+In-service commenced leased percentage | 85.2 | % | 85.1 | % | 85.0 | % | 84.8 | % | 85.4 | %
+In-service economic leased percentage (3) | 80.8 | % | 81.4 | % | 81.9 | % | 81.6 | % | 79.4 | %
+Leasing Activity:
+Total square feet leased during the period | 406 | 459 | 431 | 679 | 724
+Square feet (new) leased during the period | 194 | 262 | 293 | 466 | 551
+Square feet (renewal) leased during the period | 212 | 197 | 138 | 213 | 173
+Rental rate roll up / roll down - accrual rents | 34.6 | % | 32.4 | % | 17.8 | % | 20.5 | % | 20.2 | %
+Rental rate roll up / roll down - cash rents | 26.2 | % | 14.1 | % | 11.1 | % | 11.9 | % | 8.6 | %
+Net effective rent per square foot after capex and opex | $29.31 | $25.56 | $22.03 | $21.10 | $21.26
+Financial Results:
+Total revenues | $151,236 | $144,123 | $143,294 | $142,853 | $139,163
+Net loss applicable to Piedmont | -$21,022 | -$11,101 | -$12,920 | -$43,246 | -$13,462
+Net loss per share applicable to common stockholders - diluted | -$0.17 | -$0.09 | -$0.10 | -$0.35 | -$0.11
+Core EBITDA | $82,528 | $80,089 | $78,304 | $76,982 | $75,826
+Core FFO applicable to common stock | $50,144 | $47,863 | $46,018 | $44,205 | $43,485
+Core FFO per share - diluted | $0.39 | $0.38 | $0.36 | $0.35 | $0.35
+AFFO applicable to common stock | $29,939 | $30,990 | $23,842 | $18,709 | $26,504
+Same store net operating income - accrual basis (4) | 6.9 | % | 2.8 | % | 1.9 | % | -0.6 | % | 3.2 | %
+Same store net operating income - cash basis (4) | 7.5 | % | 9.0 | % | 11.1 | % | 2.2 | % | 2.8 | %
+Balance Sheet and Capitalization Information:
+Weighted average shares outstanding - diluted (WASO) | 127,320 | 126,914 | 126,136 | 126,712 | 126,007
+Shares of common stock issued and outstanding at period end | 123,814 | 125,133 | 125,019 | 124,519 | 124,504
+Closing price of common stock at period end | $8.90 | $9.15 | $6.57 | $8.34 | $9.00
+Total debt - GAAP | $2,340,841 | $2,250,937 | $2,252,351 | $2,224,712 | $2,193,324
+Total principal amount of debt outstanding | $2,368,023 | $2,274,224 | $2,274,157 | $2,248,080 | $2,213,196
+Total net principal amount of debt outstanding (5) | $2,361,543 | $2,252,478 | $2,267,822 | $2,244,289 | $2,205,061
+Total gross real estate assets | $4,917,911 | $4,819,963 | $4,820,893 | $4,774,133 | $4,740,790
+Equity market capitalization (6) | $1,101,944 | $1,144,965 | $821,375 | $1,038,491 | $1,120,536
+Total market capitalization (6) | $3,469,967 | $3,419,189 | $3,095,532 | $3,286,571 | $3,333,732
+11
+Piedmont Office Realty Trust, Inc.
+Portfolio Statistics & Key Performance Indicators (continued)
+Unaudited (in thousands except for per share data and ratios)
+Three Months Ended
+9/30/2026 | 6/30/2026 | 3/31/2026 | 12/31/2025 | 9/30/2025
+Ratios for Debt Holders
+Core EBITDA to total revenues | 54.6 | % | 55.6 | % | 54.6 | % | 53.9 | % | 54.5 | %
+Net principal amount of debt / Total gross assets less cash and cash equivalents (7) | 40.9 | % | 39.8 | % | 40.1 | % | 40.2 | % | 40.0 | %
+Average net principal amount of debt to Core EBITDA - trailing twelve months (8) | 7.1 x | 7.2 x | 7.2 x | 7.2 x | 7.1 x
+Fixed charge coverage ratio - current quarter (9) | 2.4 x | 2.4 x | 2.3 x | 2.2 x | 2.1 x
+(1) | As of September 30, 2026, the Company's in-service office portfolio excluded two projects currently held out of service for redevelopment, totaling 670,000 square feet. Additional information on these projects can be found on page 37.
+(2) | Refer to page 23 for detailed analysis on the Company's leased percentage.
+(3) | Excludes the square footage associated with tenants currently in rental abatement periods.
+(4) | Refer to the three pages starting with page 17 for reconciliations to net income and additional same store net operating income information. The statistic provided for each of the prior quarters is based on the same store property population applicable at the time that the metric was initially reported.
+(5) | Defined as the total principal amount of debt outstanding, minus cash and restricted cash and escrows, all as of the end of the period.
+(6) | Reflects common stock closing price, shares outstanding and principal amount of debt outstanding as of the end of the reporting period.
+(7) | Metric shown on a net debt basis to account for certain periods presented that had elevated balances of cash and restricted cash and escrows to be used primarily for debt retirement in a future period.
+(8) | Calculated using the sum of Core EBITDA for the trailing twelve month period and the average principal balance of debt outstanding for the trailing twelve months less the average balance of cash and restricted cash and escrows during the trailing twelve month period.
+(9) | Calculated as Core EBITDA divided by the sum of interest expense, principal amortization, capitalized interest and preferred dividends (none during periods presented).
+The Company recorded principal amortization of $0.9 million for each of the quarters ended September 30, 2026, June 30, 2026, March 31, 2026, December 31, 2025, and September 30, 2025.
+The Company recorded capitalized interest of $0.8 million for the quarter ended September 30, 2026, $1.0 million for the quarter ended June 30, 2026, $1.1 million for the quarter ended March 31, 2026, $1.6 million for the quarter ended December 31, 2025, and $2.9 million for the quarter ended September 30, 2025.
+12
+Piedmont Realty TrustTM
+Consolidated Balance Sheets
+Unaudited (in thousands)
+9/30/2026 | 6/30/2026 | 3/31/2026 | 12/31/2025 | 9/30/2025
+Assets:
+Real estate assets, at cost:
+Land | $ | 552,482 | $ | 540,584 | $ | 540,584 | $ | 540,584 | $ | 540,584
+Buildings and improvements | 4,101,909 | 4,029,471 | 4,013,488 | 3,970,856 | 3,923,258
+Buildings and improvements, accumulated depreciation | (1,356,637) | (1,315,910) | (1,292,892) | (1,250,436) | (1,210,745)
+Intangible lease assets | 115,226 | 102,637 | 117,826 | 118,195 | 119,734
+Intangible lease assets, accumulated amortization | (68,465) | (65,398) | (77,271) | (73,824) | (71,501)
+Construction in progress | 50,991 | 47,131 | 48,855 | 44,358 | 57,074
+Real estate assets held for sale, gross | 97,303 | 100,140 | 100,140 | 100,140 | 100,140
+Real estate assets held for sale, accumulated depreciation & amortization | (30,800) | (29,922) | (29,043) | (28,164) | (27,286)
+Total real estate assets | 3,462,009 | 3,408,733 | 3,421,687 | 3,421,709 | 3,431,258
+Cash and cash equivalents | 3,903 | 16,785 | 2,279 | 731 | 2,990
+Tenant receivables | 10,207 | 11,440 | 6,907 | 6,155 | 5,729
+Straight-line rent receivables | 214,444 | 209,057 | 205,675 | 203,382 | 200,527
+Restricted cash and escrows | 2,577 | 4,961 | 4,056 | 3,060 | 5,145
+Prepaid expenses and other assets | 24,475 | 24,120 | 20,928 | 20,857 | 27,598
+Goodwill | 53,491 | 53,491 | 53,491 | 53,491 | 53,491
+Interest rate swaps | 2,561 | 530 | — | — | —
+Deferred lease costs, gross | 531,779 | 520,047 | 522,237 | 512,049 | 465,425
+Deferred lease costs, accumulated amortization | (228,978) | (216,631) | (219,064) | (206,101) | (204,741)
+Other assets held for sale, gross | 18,571 | 18,751 | 18,913 | 19,075 | 19,236
+Other assets held for sale, accumulated amortization | (3,426) | (3,302) | (3,178) | (3,054) | (2,930)
+Total assets | $ | 4,091,613 | $ | 4,047,982 | $ | 4,033,931 | $ | 4,031,354 | $ | 4,003,728
+Liabilities:
+Unsecured debt, net of discount | $ | 2,154,818 | $ | 2,063,971 | $ | 2,064,452 | $ | 2,035,890 | $ | 2,003,588
+Secured debt | 186,023 | 186,966 | 187,899 | 188,822 | 189,736
+Accounts payable, accrued expenses and accrued capital expenditures | 165,337 | 185,339 | 158,041 | 172,880 | 135,220
+Deferred income | 114,518 | 114,642 | 116,858 | 111,227 | 110,255
+Intangible lease liabilities, less accumulated amortization | 21,653 | 21,216 | 22,880 | 24,824 | 26,788
+Interest rate swaps | — | — | — | 111 | 175
+Other liabilities held for sale | 832 | 854 | 875 | 897 | 919
+Total liabilities | 2,643,181 | 2,572,988 | 2,551,005 | 2,534,651 | 2,466,681
+Stockholders' equity:
+Common stock | 1,238 | 1,251 | 1,250 | 1,245 | 1,245
+Additional paid in capital | 3,722,950 | 3,730,985 | 3,728,827 | 3,730,273 | 3,727,914
+Cumulative distributions in excess of earnings | (2,272,393) | (2,251,371) | (2,240,270) | (2,227,350) | (2,184,104)
+Accumulated other comprehensive loss | (4,852) | (7,368) | (8,380) | (8,967) | (9,517)
+Piedmont stockholders' equity | 1,446,943 | 1,473,497 | 1,481,427 | 1,495,201 | 1,535,538
+Non-controlling interest | 1,489 | 1,497 | 1,499 | 1,502 | 1,509
+Total stockholders' equity | 1,448,432 | 1,474,994 | 1,482,926 | 1,496,703 | 1,537,047
+Total liabilities and stockholders' equity | $ | 4,091,613 | $ | 4,047,982 | $ | 4,033,931 | $ | 4,031,354 | $ | 4,003,728
+13
+Piedmont Realty TrustTM
+Consolidated Statements of Income
+Unaudited (in thousands except for per share data)
+Three Months Ended
+9/30/2026 | 6/30/2026 | 3/31/2026 | 12/31/2025 | 9/30/2025
+Revenues: (1)
+Rental revenue | $ | 118,956 | $ | 115,375 | $ | 113,393 | $ | 111,994 | $ | 110,748
+Tenant reimbursements | 25,208 | 21,890 | 23,048 | 22,943 | 22,282
+Property management fee revenue | 167 | 108 | 158 | 71 | 115
+Other property related income | 6,905 | 6,750 | 6,695 | 7,845 | 6,018
+151,236 | 144,123 | 143,294 | 142,853 | 139,163
+Expenses:
+Property operating costs | 60,029 | 55,986 | 57,306 | 58,460 | 55,890
+Depreciation | 46,123 | 44,825 | 44,027 | 42,862 | 42,127
+Amortization | 14,045 | 14,487 | 15,263 | 15,166 | 15,188
+General and administrative | 9,057 | 8,237 | 7,909 | 7,457 | 7,607
+129,254 | 123,535 | 124,505 | 123,945 | 120,812
+Other income (expense):
+Interest expense | (32,026) | (31,874) | (31,929) | (32,406) | (31,968)
+Other income (2) | 378 | 189 | 225 | 46 | 160
+Loss on early extinguishment of debt (3) | (20,236) | — | — | (29,788) | —
+Gain on sale of real estate assets (4) | 8,878 | — | — | — | —
+Net loss | (21,024) | (11,097) | (12,915) | (43,240) | (13,457)
+Less: Net loss (income) applicable to noncontrolling interest | 2 | (4) | (5) | (6) | (5)
+Net loss applicable to Piedmont | $ | (21,022) | $ | (11,101) | $ | (12,920) | $ | (43,246) | $ | (13,462)
+Weighted average common shares outstanding - basic and diluted (5) | 124,948 | 125,082 | 124,806 | 124,519 | 124,502
+Net loss per share applicable to common stockholders - basic and diluted | $ | (0.17) | $ | (0.09) | $ | (0.10) | $ | (0.35) | $ | (0.11)
+(1) | To be in conformance with GAAP presentation, the Company would combine "Rental income" and "Tenant reimbursements" amounts and present an aggregated figure on one line entitled "Rental and tenant reimbursement revenue."
+(2) | Includes interest income (in thousands) of $171, $67, $32, $38, and $60 for the three months ended September 30, 2026, June 30, 2026, March 31, 2026, December 31, 2025, and September 30, 2025, respectively.
+(3) | The loss on early extinguishment of debt recorded in the three months ended September 30, 2026 and December 31, 2025, respectively, is related to the redemption of the 9.25% unsecured senior notes due 2028.
+(4) | The gain on sale of real estate assets recorded in the three months ended September 30, 2026 is related to the sale of an undeveloped land parcel in the Las Colinas submarket of Dallas, TX.
+(5) | As Piedmont recognized a net loss for the periods presented, earnings per share is computed using basic weighted-average common shares outstanding.
+14
+Piedmont Realty TrustTM
+Consolidated Statements of Income
+Unaudited (in thousands except for per share data)
+Three Months Ended | Nine Months Ended
+9/30/2026 | 9/30/2025 | Change ($) | Change (%) | 9/30/2026 | 9/30/2025 | Change ($) | Change (%)
+Revenues: (1)
+Rental revenue | $ | 118,956 | $ | 110,748 | $ | 8,208 | 7.4 | % | $ | 347,724 | $ | 333,654 | $ | 14,070 | 4.2 | %
+Tenant reimbursements | 25,208 | 22,282 | 2,926 | 13.1 | % | 70,146 | 69,394 | 752 | 1.1 | %
+Property management fee revenue | 167 | 115 | 52 | 45.2 | % | 433 | 277 | 156 | 56.3 | %
+Other property related income | 6,905 | 6,018 | 887 | 14.7 | % | 20,350 | 18,816 | 1,534 | 8.2 | %
+151,236 | 139,163 | 12,073 | 8.7 | % | 438,653 | 422,141 | 16,512 | 3.9 | %
+Expenses:
+Property operating costs | 60,029 | 55,890 | (4,139) | (7.4) | % | 173,321 | 169,414 | (3,907) | (2.3) | %
+Depreciation | 46,123 | 42,127 | (3,996) | (9.5) | % | 134,975 | 123,666 | (11,309) | (9.1) | %
+Amortization | 14,045 | 15,188 | 1,143 | 7.5 | % | 43,795 | 45,394 | 1,599 | 3.5 | %
+General and administrative | 9,057 | 7,607 | (1,450) | (19.1) | % | 25,203 | 23,130 | (2,073) | (9.0) | %
+129,254 | 120,812 | (8,442) | (7.0) | % | 377,294 | 361,604 | (15,690) | (4.3) | %
+Other income (expense):
+Interest expense | (32,026) | (31,968) | (58) | (0.2) | % | (95,829) | (95,599) | (230) | (0.2) | %
+Other income | 378 | 160 | 218 | 136.3 | % | 792 | 688 | 104 | 15.1 | %
+Loss on early extinguishment of debt | (20,236) | — | (20,236) | (100.0) | % | (20,236) | (8,000) | (12,236) | (153.0) | %
+Gain on sale of real estate assets | 8,878 | — | 8,878 | 100.0 | % | 8,878 | 2,013 | 6,865 | 341.0 | %
+Net loss | (21,024) | (13,457) | (7,567) | (56.2) | % | (45,036) | (40,361) | (4,675) | (11.6) | %
+Less: Net loss (income) applicable to noncontrolling interest | 2 | (5) | 7 | 140.0 | % | (7) | (13) | 6 | 46.2 | %
+Net loss applicable to Piedmont | $ | (21,022) | $ | (13,462) | $ | (7,560) | (56.2) | % | $ | (45,043) | $ | (40,374) | $ | (4,669) | (11.6) | %
+Weighted average common shares outstanding - basic and diluted (2) | 124,948 | 124,502 | 124,946 | 124,407
+Net loss per share applicable to common stockholders - basic and diluted | $ | (0.17) | $ | (0.11) | $ | (0.36) | $ | (0.32)
+(1) | To be in conformance with GAAP presentation, the Company would combine "Rental income" and "Tenant reimbursements" amounts and present an aggregated figure on one line entitled "Rental and tenant reimbursement revenue."
+(2) | As Piedmont recognized a net loss for the periods presented, earnings per share is computed using basic weighted-average common shares outstanding.
+15
+Piedmont Realty TrustTM
+Funds From Operations, Core Funds From Operations and Adjusted Funds From Operations
+Unaudited (in thousands except for per share data)
+Three Months Ended | Nine Months Ended
+9/30/2026 | 9/30/2025 | 9/30/2026 | 9/30/2025
+GAAP net loss applicable to Piedmont | $ | (21,022) | $ | (13,462) | $ | (45,043) | $ | (40,374)
+Depreciation of real estate assets | 45,763 | 41,759 | 133,915 | 122,538
+Amortization of lease-related costs | 14,045 | 15,188 | 43,795 | 45,379
+Gain on sale of real estate assets | (8,878) | — | (8,878) | (2,013)
+NAREIT Funds From Operations applicable to common stock | 29,908 | 43,485 | 123,789 | 125,530
+Adjustments:
+Loss on early extinguishment of debt | 20,236 | — | 20,236 | 8,000
+Core Funds From Operations applicable to common stock | 50,144 | 43,485 | 144,025 | 133,530
+Adjustments:
+Amortization of debt issuance costs and discounts on debt | 1,603 | 1,561 | 4,878 | 4,591
+Depreciation of non-real estate assets | 360 | 368 | 1,060 | 1,106
+Straight-line effects of lease revenue | (7,649) | (6,251) | (17,382) | (24,887)
+Stock-based compensation adjustments | 2,478 | 2,503 | 4,135 | 4,954
+Amortization of lease-related intangibles | (1,496) | (1,959) | (5,096) | (5,978)
+Non-incremental capital expenditures (1)
+Base Building Costs | (2,876) | (3,203) | (12,815) | (18,768)
+Tenant Improvement Costs | (8,540) | (5,575) | (23,722) | (14,013)
+Leasing Commission Costs | (4,085) | (4,425) | (10,312) | (14,301)
+Adjusted Funds From Operations applicable to common stock | $ | 29,939 | $ | 26,504 | $ | 84,771 | $ | 66,234
+Weighted average common shares outstanding - diluted (2) | 127,320 | 126,007 | 126,941 | 125,638
+NAREIT Funds From Operations per share (diluted) | $ | 0.23 | $ | 0.35 | $ | 0.98 | $ | 1.00
+Core Funds From Operations per share (diluted) | $ | 0.39 | $ | 0.35 | $ | 1.13 | $ | 1.06
+(1) | Non-incremental capital expenditures are defined on page 39.
+(2) | Includes potential share dilution using the treasury stock method. Such shares are not included when calculating net loss per share applicable to Piedmont as presented on the Consolidated Statements of Income, as they would reduce the loss per share presented.
+16
+Piedmont Realty TrustTM
+Same Store Net Operating Income (Cash Basis)
+Unaudited (in thousands)
+Three Months Ended | Nine Months Ended
+9/30/2026 | 9/30/2025 | 9/30/2026 | 9/30/2025
+GAAP net loss applicable to Piedmont | $ | (21,022) | $ | (13,462) | $ | (45,043) | $ | (40,374)
+Net (loss) income applicable to noncontrolling interest | (2) | 5 | 7 | 13
+Interest expense | 32,026 | 31,968 | 95,829 | 95,599
+Depreciation | 46,123 | 42,127 | 134,975 | 123,666
+Amortization | 14,045 | 15,188 | 43,795 | 45,395
+Gain on sale of real estate assets | (8,878) | — | (8,878) | (2,013)
+EBITDAre | 62,292 | 75,826 | 220,685 | 222,286
+Loss on early extinguishment of debt | 20,236 | — | 20,236 | 8,000
+Core EBITDA | 82,528 | 75,826 | 240,921 | 230,286
+General and administrative expense | 9,057 | 7,607 | 25,203 | 23,130
+Management fee revenue (net) | (167) | (114) | (433) | (254)
+Other income | (270) | (52) | (468) | (364)
+Straight-line effects of lease revenue | (7,649) | (6,251) | (17,382) | (24,891)
+Amortization of lease-related intangibles | (1,496) | (1,959) | (5,096) | (5,978)
+Property net operating income (cash basis) | 82,003 | 75,057 | 242,745 | 221,929
+Deduct net operating (income) loss from:
+Acquisitions (1) | (200) | — | (200) | —
+Dispositions (1) | (72) | 74 | 14 | (1,554)
+Other investments (2) | (1,022) | (62) | (1,855) | 149
+Same store net operating income (cash basis) | $ | 80,709 | $ | 75,069 | $ | 240,704 | $ | 220,524
+Change period over period | 7.5 | % | N/A | 9.2 | % | N/A
+(1) | Refer to page 38 for information on recent acquisitions and dispositions.
+(2) | Includes projects currently held out-of-service, recently completed redevelopment projects in which a portion of operating expenses was capitalized during the current and/or prior reporting periods, and various land holdings. Refer to pages 37 and 38 for detailed information on these entities.
+17
+Piedmont Realty TrustTM
+Same Store Net Operating Income (Accrual Basis)
+Unaudited (in thousands)
+Three Months Ended | Nine Months Ended
+9/30/2026 | 9/30/2025 | 9/30/2026 | 9/30/2025
+GAAP net loss applicable to Piedmont | $ | (21,022) | $ | (13,462) | $ | (45,043) | $ | (40,374)
+Net (loss) income applicable to noncontrolling interest | (2) | 5 | 7 | 13
+Interest expense | 32,026 | 31,968 | 95,829 | 95,599
+Depreciation | 46,123 | 42,127 | 134,975 | 123,666
+Amortization | 14,045 | 15,188 | 43,795 | 45,395
+Gain on sale of real estate assets | (8,878) | — | (8,878) | (2,013)
+EBITDAre | 62,292 | 75,826 | 220,685 | 222,286
+Loss on early extinguishment of debt | 20,236 | — | 20,236 | 8,000
+Core EBITDA | 82,528 | 75,826 | 240,921 | 230,286
+General and administrative expense | 9,057 | 7,607 | 25,203 | 23,130
+Management fee revenue (net) | (167) | (114) | (433) | (254)
+Other income | (270) | (52) | (468) | (364)
+Property net operating income (accrual basis) | 91,148 | 83,267 | 265,223 | 252,798
+Acquisitions (1) | (314) | — | (314) | —
+Dispositions (1) | (72) | 74 | 14 | (1,662)
+Other investments (2) | (1,815) | (138) | (4,238) | (100)
+Same store net operating income (accrual basis) | $ | 88,947 | $ | 83,203 | $ | 260,685 | $ | 251,036
+Change period over period | 6.9 | % | N/A | 3.8 | % | N/A
+(1) | Refer to page 38 for detailed information on recent acquisitions and dispositions.
+(2) | Includes projects currently held out-of-service, recently completed redevelopment projects in which a portion of operating expenses was capitalized during the current and/or prior reporting periods, and various land holdings. Refer to pages 37 and 38 for detailed information on these entities.
+18
+Piedmont Realty TrustTM
+Same Store Net Operating Income (Financial Components)
+Unaudited (in thousands)
+Three Months Ended | Nine Months Ended
+9/30/2026 | 9/30/2025 | Change ($) | Change (%) | 9/30/2026 | 9/30/2025 | Change ($) | Change (%)
+Revenue
+Cash rental income | $ | 107,952 | $ | 102,222 | $ | 5,730 | 5.6 | % | $ | 321,935 | $ | 299,702 | $ | 22,233 | 7.4 | %
+Tenant reimbursements | 24,555 | 22,159 | 2,396 | 10.8 | % | 68,520 | 68,190 | 330 | 0.5 | %
+Straight-line effects of lease revenue | 6,783 | 6,175 | 608 | 9.8 | % | 14,924 | 24,534 | (9,610) | (39.2) | %
+Amortization of lease-related intangibles | 1,455 | 1,959 | (504) | (25.7) | % | 5,057 | 5,978 | (921) | (15.4) | %
+Total rents | 140,745 | 132,515 | 8,230 | 6.2 | % | 410,436 | 398,404 | 12,032 | 3.0 | %
+Other property related income | 6,607 | 5,991 | 616 | 10.3 | % | 19,584 | 18,715 | 869 | 4.6 | %
+Total revenue | 147,352 | 138,506 | 8,846 | 6.4 | % | 430,020 | 417,119 | 12,901 | 3.1 | %
+Less: Property operating expense | 58,513 | 55,411 | (3,102) | (5.6) | % | 169,659 | 166,406 | (3,253) | (2.0) | %
+Add: Other income | 108 | 108 | — | — | % | 324 | 323 | 1 | 0.3 | %
+Same store net operating income (accrual) | $ | 88,947 | $ | 83,203 | $ | 5,744 | 6.9 | % | $ | 260,685 | $ | 251,036 | $ | 9,649 | 3.8 | %
+Less:
+Straight-line effects of lease revenue | (6,783) | (6,175) | (608) | (9.8) | % | (14,924) | (24,534) | 9,610 | 39.2 | %
+Amortization of lease-related intangibles | (1,455) | (1,959) | 504 | 25.7 | % | (5,057) | (5,978) | 921 | 15.4 | %
+Same store net operating income (cash) | $ | 80,709 | $ | 75,069 | $ | 5,640 | 7.5 | % | $ | 240,704 | $ | 220,524 | $ | 20,180 | 9.2 | %
+19
+Piedmont Realty TrustTM
+Debt Summary
+As of September 30, 2026
+Unaudited ($ in thousands)
+Floating Rate & Fixed Rate Debt
+Debt | Principal Outstanding | Weighted Average Interest Rate | Weighted Average Maturity
+Fixed Rate | $2,016,023 | 4.74% | 52.1 months
+Floating Rate (1) | 352,000 | 4.99% | 51.2 months
+Total | $2,368,023 | 4.78% | 52.0 months
+Unsecured & Secured Debt
+Debt | Principal Outstanding | Weighted Average Interest Rate | Weighted Average Maturity
+Unsecured | $2,182,000 | 4.83% | 54.4 months
+Secured | 186,023 | 4.10% | 24.1 months
+Total | $2,368,023 | 4.78% | 52.0 months
+Debt Maturities (2)
+Maturity Year | Secured Principal Outstanding | Unsecured Principal Outstanding | Weighted Average Interest Rate | Percentage of Total Debt
+2026 | $— | $— | — | —
+2027 | — | — | — | —
+2028 | 186,023 | — | 4.10% | 7.8%
+2029 | — | 400,000 | 7.11% | 16.9%
+2030 | — | 452,000 | 4.25% | 19.1%
+2031 | — | 630,000 | 4.21% | 26.6%
+2032 | — | 300,000 | 2.78% | 12.7%
+2033 | — | 400,000 | 5.73% | 16.9%
+Total | $ | 186,023 | $ | 2,182,000 | 4.78% | 100.00%
+(1) | As of September 30, 2026, the Company's floating rate debt was comprised of the $200 million variable portion of the $400 million term loan and the $152 million outstanding balance on the line of credit at the end of the period.
+(2) | For loans that provide extension options conditional upon proper notice to the loan's administrative agent and the payment of an extension fee, the final extended maturity date is reflected.
+20
+Piedmont Realty TrustTM
+Debt Detail
+As of September 30, 2026
+Unaudited ($ in thousands)
+Facility | Stated Rate (1) | Effective Rate (2) | Maturity Date (3) | Principal Outstanding (4)
+Secured Debt
+$197 Million Fixed-Rate Mortgage (1180 Peachtree) | 4.10% | 4.10% | Fixed | 10/1/2028 | 186,023
+Secured Subtotal / Weighted Average Interest Rate | 4.10% | $ | 186,023
+Unsecured Debt
+$400 Million Unsecured Senior Notes due 2029 | 6.88% | 7.11% | Fixed | 7/15/2029 | 400,000
+$600 Million Unsecured 2022 Line of Credit (5) | SOFR + 1.05% | 4.95% | Floating | 6/30/2030 | 152,000
+$300 Million Unsecured Senior Notes due 2030 | 3.15% | 3.90% | Fixed | 8/15/2030 | 300,000
+$230 Million Exchangeable Senior Notes due 2031 (6) | 2.88% | 2.88% | Fixed | 2/1/2031 | 230,000
+$400 Million Unsecured 2026 Term Loan (7) | SOFR + 1.15% | 5.02% 4.94% | Floating Fixed | 5/28/2031 | 400,000
+$300 Million Unsecured Senior Notes due 2032 | 2.75% | 2.78% | Fixed | 4/1/2032 | 300,000
+$400 Million Unsecured Senior Notes due 2033 | 5.63% | 5.73% | Fixed | 1/15/2033 | 400,000
+Unsecured Subtotal / Weighted Average Interest Rate | 4.83% | $ | 2,182,000
+Total Debt - Principal Amount Outstanding / Weighted Average Interest Rate | 4.78% | $ | 2,368,023
+GAAP Adjustments - Discounts and Unamortized Debt Issuance Costs | (27,182)
+Total Debt - GAAP | $ | 2,340,841
+Less: Cash, cash equivalents, and restricted cash and escrows | 6,480
+Total Net Debt - Principal Amount Outstanding | $ | 2,361,543
+(1) | Stated rates for the unsecured term loan and the unsecured line of credit are comprised of the relevant SOFR selection and an additional spread based on Piedmont's current credit rating, as defined in the respective loan agreement.
+(2) | Effective rates reflect the consideration of settled or in-place interest rate swap agreements and issuance discounts, where applicable.
+(3) | For loans that provide extension options conditional upon proper notice to the loan's administrative agent and the payment of an extension fee, the final extended maturity date is reflected.
+(4) | All outstanding debt at period end was interest-only with the exception of the amortizing fixed-rate mortgage.
+(5) | Piedmont may select from multiple interest rate options with each draw under the revolving credit facility, including the prime rate and various SOFR selections. The facility has an initial maturity date of June 30, 2028 with two one-year extension options for a final maturity date of June 30, 2030, provided Piedmont is not then in default and upon payment of extension fees.
+(6) | During the three months ended September 30, 2026, Piedmont issued $230 million in 2.875% exchangeable senior notes, which will mature on February 1, 2031, unless repurchased, redeemed, or exchanged. Proceeds from this issuance, along with borrowings under the $600 million line of credit, were used to redeem all of the outstanding 9.25% unsecured senior notes due 2028.
+(7) | During the second quarter of 2026, the Company amended its $325 Million Unsecured Term Loan to increase the principal to $400 million and extend the maturity date to May 28, 2031. The new term loan has a stated variable interest rate; however, the Company has entered into interest rate swap agreements which effectively fixes $200 million of the principal through June 1, 2028.
+21
+Piedmont Realty TrustTM`
+Debt Covenants & Ratios for Debt Holders
+As of September 30, 2026
+Unaudited
+Three Months Ended
+Bank Debt Covenant Compliance (1) | Required | 9/30/2026 | 6/30/2026 | 3/31/2026 | 12/31/2025 | 9/30/2025
+Maximum leverage ratio | 0.60 | 0.44 | 0.45 | 0.46 | 0.46 | 0.48
+Minimum fixed charge coverage ratio (2) | 1.50 | 2.35 | 2.29 | 2.23 | 2.16 | 2.15
+Maximum secured indebtedness ratio | 0.40 | 0.03 | 0.04 | 0.04 | 0.04 | 0.04
+Minimum unencumbered leverage ratio | 1.60 | 2.28 | 2.27 | 2.21 | 2.18 | 2.12
+Minimum unencumbered interest coverage ratio (3) | 1.75 | 2.54 | 2.43 | 2.31 | 2.22 | 2.19
+Three Months Ended
+Bond Covenant Compliance (4) | Required | 9/30/2026 | 6/30/2026 | 3/31/2026 | 12/31/2025 | 9/30/2025
+Total debt to total assets | 60% or less | 47.7% | 46.4% | 47.0% | 47.0% | 46.5%
+Secured debt to total assets | 40% or less | 3.8% | 3.9% | 3.9% | 3.9% | 4.0%
+Ratio of consolidated EBITDA to interest expense | 1.50 or greater | 2.55 | 2.54 | 2.50 | 2.51 | 2.53
+Unencumbered assets to unsecured debt | 150% or greater | 204% | 210% | 210% | 210% | 213%
+Other Debt Coverage Ratios for Debt Holders | As of | As of
+(trailing twelve months) | September 30, 2026 | December 31, 2025
+Average net principal amount of debt to Core EBITDA (5) | 7.1 x | 7.2 x
+Fixed charge coverage ratio (6) | 2.3 x | 2.2 x
+Interest coverage ratio (7) | 2.4 x | 2.2 x
+(1) | Bank debt covenant compliance calculations relate to the most restrictive of the specific calculations detailed in the relevant credit agreements. Please refer to such agreements for relevant defined terms.
+(2) | Defined as EBITDA for the trailing four quarters (including the Company's share of EBITDA from unconsolidated interests), excluding one-time or non-recurring gains or losses, less a $0.15 per square foot capital reserve, and excluding the impact of straight line rent leveling adjustments and amortization of intangibles divided by the Company's share of fixed charges, as more particularly described in the credit agreements. This definition of fixed charge coverage ratio as prescribed by our credit agreements is different from the fixed charge coverage ratio definition employed elsewhere within this report.
+(3) | Defined as net operating income for the trailing four quarters for unencumbered assets (including the Company's share of net operating income from partially-owned entities and subsidiaries that are deemed to be unencumbered) less a $0.15 per square foot capital reserve divided by the Company's share of interest expense associated with unsecured financings only, as more particularly described in the credit agreements.
+(4) | Bond covenant compliance calculations relate to specific calculations prescribed in the relevant debt agreements. Please refer to the Indenture and the First Supplemental Indenture dated March 6, 2014, the Second Supplemental Indenture dated August 12, 2020, the Third Supplemental Indenture dated September 20, 2021, the Fourth Supplemental Indenture dated July 20, 2023, the Fifth Supplemental Indenture dated June 25, 2024, the Sixth Supplemental Indenture dated November 20, 2025, and the Indenture dated September 17, 2026 for defined terms and detailed information about the calculations.
+(5) | Calculated using the sum of Core EBITDA for the trailing twelve month period and the average principal balance of debt outstanding for the trailing twelve months less the average balance of cash and restricted cash and escrows during the trailing twelve month period.
+(6) | Calculated as Core EBITDA divided by the sum of interest expense, principal amortization, capitalized interest and preferred dividends (none during periods presented).
+The Company recorded principal amortization of $0.9 million for each of the quarters ended September 20, 2026, June 30, 2026, March 31, 2026, December 31, 2025, and September 30, 2025.
+The Company recorded capitalized interest of $0.8 million for the quarter ended September 30, 2026, $1.0 million for the quarter ended June 30, 2026, $1.1 million for the quarter ended March 31, 2026, $1.6 million for the quarter ended December 31, 2025, and $2.9 million for the quarter ended September 30, 2025.
+(7) | Calculated as Core EBITDA divided by the sum of interest expense and capitalized interest. The Company recorded capitalized interest of $0.8 million for the quarter ended September 30, 2026, $1.0 million for the quarter ended June 30, 2026, $1.1 million for the quarter ended March 31, 2026, $1.6 million for the quarter ended December 31, 2025, and $2.9 million for the quarter ended September 30, 2025.
+22
+Piedmont Realty TrustTM
+Leased Percentage
+(in thousands)
+Three Months Ended | Three Months Ended
+September 30, 2026 | September 30, 2025
+Leased Square Footage | Rentable Square Footage | Percent Leased (1) | Leased Square Footage | Rentable Square Footage | Percent Leased (1)
+In-Service Leased - beginning of period | 13,393 | 15,066 | 88.9 | % | 13,230 | 14,923 | 88.7 | %
+Total leasing executed during period | 406 | 724
+Less: Lease renewals signed during period | (212) | (173)
+Less: New leases signed during period for currently occupied space | (84) | (74)
+Less: New leases signed during period for out of service space | (13) | (183)
+Less: Leases expired during period and other | (274) | 1 | (220) | (5)
+Subtotal | 13,216 | 15,067 | 87.7 | % | 13,304 | 14,918 | 89.2 | %
+Acquisitions / (dispositions) (2) | 154 | 186 | — | —
+Assets placed in service / (taken out of service) (3) | — | — | — | —
+In-Service Leased - end of period | 13,370 | 15,253 | 87.7 | % | 13,304 | 14,918 | 89.2 | %
+Nine Months Ended | Nine Months Ended
+September 30, 2026 | September 30, 2025
+Leased Square Footage | Rentable Square Footage | Percent Leased (1) | Leased Square Footage | Rentable Square Footage | Percent Leased (1)
+In-Service Leased - beginning of period | 13,363 | 14,921 | 89.6 | % | 13,538 | 15,323 | 88.4 | %
+Total leasing executed during period | 1,296 | 1,799
+Less: Lease renewals signed during period | (546) | (600)
+Less: New leases signed during period for currently occupied space | (262) | (202)
+Less: New leases signed during period for out of service space | (178) | (361)
+Less: Leases expired during period and other | (563) | 14 | (507) | 22
+Subtotal | 13,110 | 14,935 | 87.8 | % | 13,667 | 15,345 | 89.1 | %
+Acquisitions / (dispositions) (2) | 154 | 186 | (363) | (427)
+Assets placed in service / (taken out of service) (3) | 106 | 132 | — | —
+In-Service Leased - end of period | 13,370 | 15,253 | 87.7 | % | 13,304 | 14,918 | 89.2 | %
+Same Store Analysis (4)
+Less: Acquisitions and dispositions after September 30, 2025 | (154) | (186) | 82.5 | % | — | — | — | %
+Less: Assets placed in or taken out of service after September 30, 2025 | (120) | (133) | 90.2 | % | — | — | — | %
+Same Store Leased Percentage - end of period | 13,096 | 14,934 | 87.7 | % | 13,304 | 14,918 | 89.2 | %
+(1) | Calculated as the square footage of commenced leases plus the square footage of uncommenced leases for spaces vacant as of period end, divided by total rentable in-service square footage at period end.
+(2) | In the three and nine months ended September 30, 2026, respectively, the Company acquired 4075 Wilson Boulevard in Arlington, Virginia. Refer to page 38 for more information on acquisitions and dispositions completed in the current and prior years.
+(3) | In the nine months ended September 30, 2026, the Company placed the 222 South Orange Avenue asset back into service. Refer to page 37 for more information on the remaining two out of service projects.
+(4) | To compare leased percentage on a same store basis, the end of period amounts for current and prior years are adjusted. Dispositions completed during the previous twelve months are deducted from the previous period data, and acquisitions completed during the previous twelve months are deducted from the current period data. Assets taken out of service during the previous twelve months are deducted from the previous period data, and assets that were placed in service during the previous twelve months are deducted from the current period data.
+23
+Piedmont Realty TrustTM
+Rental Rate Roll Up / Roll Down
+Three Months Ended
+September 30, 2026
+Square Feet (in thousands) | % of Total Signed During Period | % of Rentable Square Footage | % Change Cash Rents (1) | % Change Accrual Rents (2)
+Leases executed for spaces vacant one year or less | 227 | 55.9% | 1.5% | 26.2% | 34.6%
+Leases executed for spaces excluded from analysis (3) | 179 | 44.1%
+Nine Months Ended
+September 30, 2026
+Square Feet (in thousands) | % of Total Signed During Period | % of Rentable Square Footage | % Change Cash Rents (1) | % Change Accrual Rents (2)
+Leases executed for spaces vacant one year or less | 692 | 53.4% | 4.5% | 17.1% | 28.5%
+Leases executed for spaces excluded from analysis (3) | 604 | 46.6%
+(1) | Calculation compares the last twelve months of cash paying rents of the previous lease to the first twelve months of cash paying rents of the new lease.
+(2) | Calculation compares the accrual basis rents of the previous lease to the accrual basis rents of the new leases. For newly signed leases which have variations in accrual basis rents, whether because of known future expansions, contractions, lease expense recovery structure changes, or other similar reasons, the weighted average of such varying accrual basis rents is used for the calculation.
+(3) | Leases are excluded from the above analyses if: (1) the space has been vacant for more than one year, (2) the lease term is less than one year, (3) the lease is associated with storage space, retail space, a management office, or a percentage rent agreement, or (4) the lease is associated with a recently acquired asset for which there is less than one year of operating history.
+24
+Piedmont Realty TrustTM
+Contractual Tenant Improvements and Leasing Commissions
+Three Months Ended September 30, 2026 | Nine Months Ended September 30, 2026 | For the Year Ended | 2022 to 2026 (Weighted Average)
+2025 | 2024 (2) | 2023 (3) | 2022
+Total Leasing Transactions
+Square feet (1) | 403,944 | 1,287,460 | 2,474,774 | 2,428,246 | 2,239,797 | 2,142,852 | 10,573,129
+Tenant improvements per square foot per year of lease term | $2.74 | $3.29 | $4.07 | $3.70 | $3.80 | $3.22 | $3.69
+Leasing commissions per square foot per year of lease term | $2.99 | $2.72 | $2.77 | $2.31 | $2.21 | $2.22 | $2.45
+Total per square foot per year of lease term | $5.73 | $6.01 | $6.84 | $6.01 | $6.01 | $5.44 | $6.14
+Less Adjustment for Commitment Expirations (4)
+Expired tenant improvements (not paid out) per square foot per year of lease term | -$0.52 | -$0.57 | -$0.26 | -$0.34 | -$0.79 | -$0.10 | -$0.42
+Adjusted total per square foot per year of lease term | $5.21 | $5.44 | $6.58 | $5.67 | $5.22 | $5.34 | $5.72
+(1) | Excludes square feet associated with storage and license agreement transactions.
+(2) | Tenant improvement and leasing commission amounts presented for the year ended December 31, 2024 include a 101,500 square foot 11-year lease executed in the first quarter of 2024 with no capital outlay requirements.
+(3) | Tenant improvement amounts presented for the year ended December 31, 2023 were adjusted to reflect the overall concession package for the 447,000 square foot 10-year renewal with US Bancorp, executed in the fourth quarter of 2023. The renewal terms provided for zero months of rent abatement, offset by an above-market tenant improvement allowance. The amounts are presented as if the renewal had included the standard twelve months of gross rent abatement in line with market conditions and, therefore, a normalized tenant improvement allowance. This adjustment effectively lowered the total capital per square foot per year of lease term for the year ended December 31, 2023 by $0.97.
+(4) | The Company reports total tenant improvement amounts based on the maximum amount of committed leasing capital in the period in which the lease is executed. However, tenants do not always use the full allowance provided for in the lease, or a portion of the allowance could expire at a set date. To provide additional clarity on actual costs for completed leasing transactions, tenant improvement allowances that have expired or are no longer available to the tenant are disclosed in this section and are deducted from the capital commitments per square foot of leased space in the periods in which they expired.
+25
+Piedmont Realty TrustTM
+Net Effective Rents
+Three Months Ended | Five Quarter
+9/30/2026 | 6/30/2026 | 3/31/2026 | 12/31/2025 | 9/30/2025 | Average
+Leasing activity included in net effective rent analysis (1)
+Renewal leasing square footage (in 000s) | 161 | 167 | 104 | 174 | 119 | 145
+New tenant leasing square footage (in 000s) | 161 | 255 | 284 | 436 | 539 | 335
+Total leasing square footage (in 000s) | 322 | 422 | 388 | 610 | 658 | 480
+Renewal square footage (% of total) | 50.0 | % | 39.6 | % | 26.8 | % | 28.5 | % | 18.1 | % | 30.2 | %
+New Lease square footage (% of total) | 50.0 | % | 60.4 | % | 73.2 | % | 71.5 | % | 81.9 | % | 69.8 | %
+# of lease transactions | 37 | 36 | 37 | 49 | 64 | 45
+Net effective rents (2) (3)
+Base rent (gross) | $ | 51.60 | $ | 47.22 | $ | 43.88 | $ | 43.41 | $ | 44.67 | $ | 46.16
+Rent concessions | (2.23) | (2.47) | (2.62) | (2.17) | (2.46) | (2.39)
+GAAP Rent | $ | 49.37 | $ | 44.75 | $ | 41.26 | $ | 41.24 | $ | 42.21 | $ | 43.77
+Tenant improvements | (2.46) | (3.24) | (2.65) | (2.82) | (3.31) | (2.90)
+Leasing commissions | (2.70) | (2.71) | (2.35) | (2.63) | (2.75) | (2.63)
+Other concessions | — | (0.11) | (0.09) | — | (0.01) | (0.04)
+Effective rent after capex | $ | 44.21 | $ | 38.69 | $ | 36.17 | $ | 35.79 | $ | 36.14 | $ | 38.20
+Expense stop | (14.90) | (13.13) | (14.14) | (14.69) | (14.88) | (14.35)
+Effective rent after capex and opex | $ | 29.31 | $ | 25.56 | $ | 22.03 | $ | 21.10 | $ | 21.26 | $ | 23.85
+Weighted average lease term in years (weighted by square feet) | 8.0 | 9.6 | 8.0 | 7.4 | 8.8 | 8.3
+(1) | Leases are excluded from this analysis if: (1) the lease term is one year or less or (2) the lease is associated with non-office space (storage, retail or a management office). Total leased square footage in this analysis will not tie to the total reported leasing volume reported elsewhere in this supplemental report.
+(2) | Based on the weighted average per rentable square footage over the lease term of each deal.
+(3) | Excludes parking income due to the variable nature between markets and individual lease transactions.
+26
+Piedmont Realty TrustTM
+Future Contractual Income Sources
+As of September 30, 2026
+Uncommenced Leases for Vacant Space (1)
+0.7 million square feet representing $29.3 million in future annual rent
+Major Leases (by Industry) | Project | Market | Square Feet Leased | Estimated Lease Commencement | New / Expansion
+Engineering and environmental consulting | Meridian | Minneapolis | 85,267 | Q4 2026 | New
+Global risk management | Meridian | Minneapolis | 54,662 | Q4 2026 | New
+Accounting and business advisory | US Bancorp Center | Minneapolis | 41,294 | Q4 2026 | New
+Defense technology | 4250 North Fairfax | Northern Virginia | 69,896 | Q1 2027 | New
+Leases Currently Under Abatement (1)
+1.2 million square feet representing $32.0 million in future annual cash rent
+Major Leases (by Industry) | Project | Market | Square Feet Abated | Lease Commencement | Lease Expiration | Remaining Abatement Schedule
+Banking and financial services | Meridian | Minneapolis | 27,049 | Q1 2026 | Q4 2036 | January 2026 through October 2026
+Commercial construction management | Meridian | Minneapolis | 34,013 | Q1 2026 | Q1 2038 | March 2026 through February 2028
+National mortgage lender | Interlink at Las Colinas | Dallas | 55,252 | Q2 2026 | Q1 2035 | April 2026 through November 2026
+Engineering and environmental consulting | Galleria Towers | Dallas | 46,004 | Q1 2026 | Q4 2032 | May 2026 through September 2026
+Global risk management | Galleria Towers | Dallas | 92,977 | Q2 2026 | Q2 2039 | May 2026 through April 2027
+Technology services company | Interlink at Las Colinas | Dallas | 28,040 | Q2 2026 | Q3 2031 | July 2026 through November 2026
+Home service provider | Galleria on the Park | Atlanta | 47,835 | Q3 2026 | Q3 2038 | August 2026 through September 2026
+Commercial construction management | The Exchange on Orange | Orlando | 27,990 | Q3 2026 | Q2 2037 | August 2026 through July 2027
+Education and healthcare staffing | Galleria on the Park | Atlanta | 46,726 | Q1 2025 | Q3 2032 | September 2026 through December 2026
+National law firm | 999 Peachtree | Atlanta | 31,523 | Q3 2026 | Q3 2040 | September 2026 through August 2027
+Banking and financial services | Meridian | Minneapolis | 54,692 | Q3 2026 | Q4 2039 | September 2026 through October 2027
+(1) | Includes leasing activity for the total portfolio, including assets currently out of service.
+27
+Piedmont Realty TrustTM
+Lease Expiration Schedule
+As of September 30, 2026
+(in thousands)
+Expiration Year | Annualized Lease Revenue | Percentage of Annualized Lease Revenue (%) | Rentable Square Footage | Percentage of Rentable Square Footage (%)
+Vacant | $— | — | 1,883 | 12.3
+2026 (1) | 37,877 | 6.3 | 584 | 3.8
+2027 | 49,903 | 8.3 | 1,263 | 8.3
+2028 | 52,063 | 8.6 | 1,224 | 8.0
+2029 | 59,824 | 9.9 | 1,351 | 8.9
+2030 | 65,236 | 10.8 | 1,360 | 8.9
+2031 | 45,513 | 7.5 | 1,122 | 7.4
+2032 | 43,095 | 7.1 | 984 | 6.6
+2033 | 20,707 | 3.4 | 475 | 3.1
+2034 | 56,613 | 9.4 | 1,237 | 8.1
+2035 | 34,162 | 5.7 | 815 | 5.3
+2036 | 28,636 | 4.7 | 710 | 4.7
+2037 | 63,168 | 10.6 | 1,241 | 8.1
+2038 | 11,523 | 1.9 | 266 | 1.7
+Thereafter | 34,683 | 5.8 | 738 | 4.8
+Total | $603,003 | 100.0 | 15,253 | 100.0
+Average Lease Term Remaining
+9/30/2026 | 5.8 years
+12/31/2025 | 6.0 years
+(1) | Includes leases with an expiration date of September 30, 2026, comprised of approximately 75,000 square feet and Annualized Lease Revenue of $3.6 million. Also included is the New York City 313,000 square foot lease at 60 Broad Street, which is in holdover status following the tenant's June 4, 2026 expiration date. Annualized lease revenue reflects the maximum holdover penalty that could be assessed per the lease agreement.
+28
+Piedmont Realty TrustTM
+Lease Expirations by Quarter
+As of September 30, 2026
+(in thousands)
+Q4 2026 (1) | Q1 2027 | Q2 2027 | Q3 2027
+Location | Expiring Square Footage | Expiring Lease Revenue | Expiring Square Footage | Expiring Lease Revenue | Expiring Square Footage | Expiring Lease Revenue | Expiring Square Footage | Expiring Lease Revenue
+Atlanta | 102 | $5,042 | 5 | $60 | 46 | $1,765 | 344 | $15,840
+Boston | — | — | 2 | 100 | 5 | 220 | 5 | 184
+Dallas | 92 | 3,998 | 31 | 1,454 | 38 | 1,735 | 69 | 1,297
+Minneapolis | — | 13 | 11 | 283 | 278 | 10,712 | 41 | 1,413
+New York | 313 | 24,681 | 2 | 85 | 5 | 480 | — | 57
+Orlando | 6 | 215 | 50 | 836 | 13 | 546 | 65 | 2,549
+Northern Virginia / Washington, D.C. | 71 | 3,928 | 4 | 266 | 10 | 545 | 17 | 849
+Other | — | — | — | — | — | 5 | — | —
+Total | 584 | $37,877 | 105 | $3,084 | 395 | $16,008 | 541 | $22,189
+(1) | Includes leases with an expiration date of September 30, 2026, comprised of approximately 75,000 square feet and Annualized Lease Revenue of $3.6 million. Also included is the New York City 313,000 square foot lease at 60 Broad Street, which is in holdover status following the tenant's June 4, 2026 expiration date. Annualized lease revenue reflects the maximum holdover penalty that could be assessed per the lease agreement. No such adjustments are made to other periods presented.
+29
+Piedmont Realty TrustTM
+Lease Expirations by Year
+As of September 30, 2026
+(in thousands)
+12/31/2026 (1) | 12/31/2027 | 12/31/2028 | 12/31/2029 | 12/31/2030
+Location | Expiring Square Footage | Expiring Lease Revenue | Expiring Square Footage | Expiring Lease Revenue | Expiring Square Footage | Expiring Lease Revenue | Expiring Square Footage | Expiring Lease Revenue | Expiring Square Footage | Expiring Lease Revenue
+Atlanta | 102 | $5,042 | 463 | $20,016 | 398 | $17,404 | 411 | $17,604 | 371 | $15,588
+Boston | — | — | 12 | 504 | 42 | 2,377 | 204 | 9,192 | 245 | 9,608
+Dallas | 92 | 3,998 | 157 | 5,279 | 293 | 12,894 | 293 | 14,140 | 354 | 18,799
+Minneapolis | — | 13 | 338 | 12,712 | 63 | 2,478 | 62 | 2,487 | 122 | 4,698
+New York | 313 | 24,681 | 7 | 622 | 2 | 180 | 17 | 1,038 | 21 | 1,819
+Orlando | 6 | 215 | 242 | 8,262 | 89 | 3,454 | 248 | 9,584 | 188 | 11,878
+Northern Virginia / Washington, D.C. | 71 | 3,928 | 44 | 2,503 | 78 | 4,644 | 116 | 5,773 | 59 | 2,846
+Other | — | — | — | 5 | 259 | 8,632 | — | 6 | — | —
+Total (3) | 584 | $37,877 | 1,263 | $49,903 | 1,224 | $52,063 | 1,351 | $59,824 | 1,360 | $65,236
+(1) | Includes leases with an expiration date of September 30, 2026, comprised of approximately 75,000 square feet and Annualized Lease Revenue of $3.6 million. Also included is the New York City 313,000 square foot lease at 60 Broad Street, which is in holdover status following the tenant's June 4, 2026 expiration date. Annualized lease revenue reflects the maximum holdover penalty that could be assessed per the lease agreement. No such adjustments are made to other periods presented.
+30
+Piedmont Realty TrustTM
+Tenant Diversification
+As of September 30, 2026
+Tenants Contributing 1% or More to Annualized Lease Revenue (1)
+Tenant | Credit Rating (2) S&P / Moody's | Number of Properties | Lease Term Remaining (in years) | Annualized Lease Revenue (in thousands) | Percentage of Annualized Lease Revenue (%) | Leased Square Footage (in thousands) | Percentage of Leased Square Footage (%)
+State of New York | AA+ / Aa1 | 1 | 10.9 | $28,720 | 4.8 | 487 | 3.6
+New York City (3) | AA / Aa2 | 1 | - | 24,681 | 4.1 | 313 | 2.3
+US Bancorp | A / A3 | 1 | 5.5 | 15,676 | 2.6 | 435 | 3.3
+Amazon | AA / A1 | 2 | 3.8 | 15,483 | 2.5 | 285 | 2.1
+Microsoft | AAA / Aaa | 2 | 4.7 | 14,535 | 2.4 | 355 | 2.7
+King & Spalding | No Rating Available | 1 | 4.5 | 13,977 | 2.3 | 268 | 2.0
+Transocean Inc. | B / B2 | 1 | 9.6 | 12,403 | 2.1 | 301 | 2.3
+Broadcom | A- / A3 | 1 | 0.6 | 11,604 | 1.9 | 206 | 1.5
+Schlumberger Technology | A / A1 | 1 | 2.3 | 8,548 | 1.4 | 254 | 1.9
+Gartner | BBB- / Baa3 | 2 | 7.8 | 8,294 | 1.4 | 207 | 1.5
+Salesforce.com | A+ / A2 | 1 | 2.8 | 8,142 | 1.4 | 182 | 1.4
+Fiserv | BBB / Baa2 | 1 | 0.8 | 8,015 | 1.3 | 195 | 1.5
+Kimley Horn | No Rating Available | 3 | 11.1 | 6,155 | 1.0 | 142 | 1.1
+Other | Various | 426,770 | 70.8 | 9,740 | 72.8
+Total | $603,003 | 100.0 | 13,370 | 100.0
+(1) | Excludes leases executed at the out of service projects.
+(2) | Credit rating may reflect the credit rating of the parent or a guarantor. The absence of a credit rating for a tenant is not an indication of the creditworthiness of the tenant; in most cases, the lack of a credit rating reflects that the tenant has not sought such a rating.
+(3) | The New York City lease is currently in holdover status following the tenant's June 4, 2026 expiration date. Annualized lease revenue reflects the maximum holdover penalty that could be assessed per the lease agreement.
+31
+Piedmont Realty TrustTM
+Tenant Credit Rating & Lease Distribution
+As of September 30, 2026
+Tenant Credit Rating
+Rating Level (1) S&P / Moody's | Annualized Lease Revenue (in thousands) | Percentage of Annualized Lease Revenue (%)
+AAA / Aaa | $15,234 | 2.5
+AA / Aa | 89,607 | 14.9
+A / A | 72,575 | 12.0
+BBB / Baa | 45,056 | 7.5
+BB / Ba | 21,157 | 3.5
+B / B | 31,277 | 5.2
+Below | 1,291 | 0.2
+Not rated (2) | 326,806 | 54.2
+Total | $603,003 | 100.0
+Lease Distribution
+Lease Size | Number of Leases | Percentage of Leases (%) | Annualized Lease Revenue (in thousands) | Percentage of Annualized Lease Revenue (%) | Leased Square Footage (in thousands) | Percentage of Leased Square Footage (%)
+2,500 sf or Less | 340 | 33.1 | $29,025 | 4.8 | 238 | 1.8
+2,501 - 10,000 sf | 408 | 39.7 | 90,677 | 15.1 | 2,145 | 16.0
+10,001 - 20,000 sf | 118 | 11.5 | 67,127 | 11.1 | 1,580 | 11.8
+20,001 - 40,000 sf | 89 | 8.7 | 98,329 | 16.3 | 2,366 | 17.7
+40,001 - 100,000 sf | 54 | 5.2 | 146,086 | 24.2 | 3,276 | 24.5
+Greater than 100,000 sf | 18 | 1.8 | 171,759 | 28.5 | 3,765 | 28.2
+Total | 1,027 | 100.0 | $603,003 | 100.0 | 13,370 | 100.0
+(1) | Credit rating may reflect the credit rating of the parent or a guarantor. Where differences exist between the Standard & Poor's credit rating and the Moody's credit rating for a tenant, the higher credit rating is selected for this analysis.
+(2) | The classification of a tenant as "not rated" is not an indication of the creditworthiness of the tenant; in most cases, the lack of a credit rating reflects that the tenant has not sought such a rating.
+32
+Piedmont Realty TrustTM
+Industry Diversification
+As of September 30, 2026
+($ and square footage in thousands)
+Percentage of | Leased | Percentage
+Number of | Percentage of Total | Annualized Lease | Annualized Lease | Square | of Leased
+Industry | Tenants | Tenants (%) | Revenue (ALR) | Revenue (%) | Footage | Square Footage (%)
+Business Services | 98 | 12.4 | $96,881 | 16.1 | 2,233 | 16.7
+Engineering, Accounting, Research, Management & Related Services | 103 | 13.1 | 80,121 | 13.3 | 1,807 | 13.5
+Governmental Entity (1) | 5 | 0.6 | 59,446 | 9.8 | 917 | 6.9
+Legal Services | 77 | 9.8 | 58,546 | 9.7 | 1,285 | 9.6
+Real Estate | 47 | 6.0 | 30,526 | 5.1 | 828 | 6.2
+Depository Institutions | 23 | 2.9 | 28,678 | 4.7 | 725 | 5.4
+Oil and Gas Extraction | 4 | 0.5 | 22,147 | 3.7 | 587 | 4.4
+Holding and Other Investment Offices | 40 | 5.1 | 19,306 | 3.2 | 421 | 3.1
+Miscellaneous Retail | 8 | 1.0 | 17,329 | 2.9 | 333 | 2.5
+Security & Commodity Brokers, Dealers, Exchanges & Services | 59 | 7.5 | 17,019 | 2.8 | 403 | 3.0
+Automotive Repair, Services & Parking | 10 | 1.3 | 16,843 | 2.8 | 8 | 0.1
+Insurance Agents, Brokers & Services | 18 | 2.3 | 14,825 | 2.5 | 339 | 2.5
+Health Services | 35 | 4.4 | 13,821 | 2.3 | 309 | 2.3
+Membership Organizations | 20 | 2.5 | 12,896 | 2.1 | 250 | 1.9
+Eating & Drinking Places | 39 | 4.9 | 11,028 | 1.8 | 281 | 2.1
+Other | 203 | 25.7 | 103,591 | 17.2 | 2,644 | 19.8
+Total | 789 | 100.0 | $603,003 | 100.0 | 13,370 | 100.0
+(1) | Comprised of all levels of governmental entities, including federal (0.7% of ALR), state (4.8% of ALR), and city / local (4.3% of ALR).
+33
+Piedmont Realty TrustTM
+Geographic Diversification
+As of September 30, 2026
+($ and square footage in thousands)
+Location | Number of Projects | Annualized Lease Revenue | Percentage of Annualized Lease Revenue (%) | Rentable Square Footage | Percentage of Rentable Square Footage (%) | Leased Square Footage | Percent Leased (%)
+Atlanta | 6 | $187,725 | 31.1 | 4,740 | 31.1 | 4,328 | 91.3
+Dallas | 5 | 109,651 | 18.2 | 2,827 | 18.6 | 2,437 | 86.2
+Orlando | 4 | 71,084 | 11.8 | 1,881 | 12.3 | 1,729 | 91.9
+Northern Virginia / Washington, D.C. | 6 | 69,602 | 11.5 | 1,774 | 11.6 | 1,348 | 76.0
+New York | 1 | 63,771 | 10.6 | 1,047 | 6.9 | 970 | 92.6
+Minneapolis | 3 | 45,110 | 7.5 | 1,434 | 9.4 | 1,202 | 83.8
+Boston | 3 | 35,014 | 5.8 | 936 | 6.1 | 796 | 85.0
+Other | 2 | 21,046 | 3.5 | 614 | 4.0 | 560 | 91.2
+Total / Weighted Average | 30 | $603,003 | 100.0 | 15,253 | 100.0 | 13,370 | 87.7
+34
+Piedmont Realty TrustTM
+Geographic Diversification by Location Type
+As of September 30, 2026
+(square footage in thousands)
+CBD | URBAN INFILL / SUBURBAN | TOTAL
+Location | Number of Projects | Percentage of Annualized Lease Revenue (%) | Rentable Square Footage | Percentage of Rentable Square Footage (%) | Number of Projects | Percentage of Annualized Lease Revenue (%) | Rentable Square Footage | Percentage of Rentable Square Footage (%) | Number of Projects | Percentage of Annualized Lease Revenue (%) | Rentable Square Footage | Percentage of Rentable Square Footage (%)
+Atlanta | 2 | 10.3 | 1,312 | 8.6 | 4 | 20.8 | 3,428 | 22.5 | 6 | 31.1 | 4,740 | 31.1
+Dallas | — | — | — | — | 5 | 18.2 | 2,827 | 18.6 | 5 | 18.2 | 2,827 | 18.6
+Orlando | 3 | 9.9 | 1,571 | 10.3 | 1 | 1.9 | 310 | 2.0 | 4 | 11.8 | 1,881 | 12.3
+Northern Virginia / Washington, D.C. | 2 | 4.3 | 687 | 4.5 | 4 | 7.2 | 1,087 | 7.1 | 6 | 11.5 | 1,774 | 11.6
+New York | 1 | 10.6 | 1,047 | 6.9 | — | — | — | — | 1 | 10.6 | 1,047 | 6.9
+Minneapolis | 1 | 4.3 | 930 | 6.1 | 2 | 3.2 | 504 | 3.3 | 3 | 7.5 | 1,434 | 9.4
+Boston | — | — | — | — | 3 | 5.8 | 936 | 6.1 | 3 | 5.8 | 936 | 6.1
+Other | — | — | — | — | 2 | 3.5 | 614 | 4.0 | 2 | 3.5 | 614 | 4.0
+Total | 9 | 39.4 | 5,547 | 36.4 | 21 | 60.6 | 9,706 | 63.6 | 30 | 100.0 | 15,253 | 100.0
+35
+Piedmont Realty TrustTM
+Portfolio Detail
+As of September 30, 2026
+(in thousands)
+In-Service Assets | Energy Star Certification | LEED Certification | BOMA 360 Certification | Percent Ownership | Number of Buildings | Rentable Square Footage Owned | Percent Leased | Percent Commenced Leased | Percent Economic Leased (1) | Annualized Lease Revenues
+Atlanta
+999 Peachtree | P | P | P | 100.0% | 1 | 634 | 78.4 | % | 63.4 | % | 52.8 | % | 23,706
+1180 Peachtree | P | P | P | 100.0% | 1 | 678 | 97.0 | % | 97.0 | % | 96.4 | % | 38,763
+Galleria on the Park | P | P | P | 100.0% | 5 | 2,180 | 96.5 | % | 94.2 | % | 86.1 | % | 79,636
+Glenridge Highlands One and Two | P | P | P | 100.0% | 2 | 713 | 77.8 | % | 77.6 | % | 74.3 | % | 21,529
+1155 Perimeter Center West | P | P | P | 100.0% | 1 | 377 | 97.3 | % | 97.3 | % | 92.8 | % | 17,315
+The Medici | P | P | 100.0% | 1 | 158 | 93.5 | % | 78.3 | % | 75.2 | % | 6,776
+Market Subtotal / Weighted Average | 11 | 4,740 | 91.3 | % | 87.7 | % | 81.5 | % | 187,725
+Boston
+5 Wall | P | P | P | 100.0% | 1 | 182 | 100.0 | % | 100.0 | % | 100.0 | % | 8,145
+Wayside Office Park | P | P | 100.0% | 2 | 473 | 91.9 | % | 91.9 | % | 91.9 | % | 18,379
+25 Mall | P | P | 100.0% | 1 | 281 | 63.8 | % | 60.6 | % | 60.6 | % | 8,490
+Market Subtotal / Weighted Average | 4 | 936 | 85.0 | % | 84.1 | % | 84.1 | % | 35,014
+Dallas
+Galleria Towers | P | P | P | 100.0% | 3 | 1,403 | 88.4 | % | 87.9 | % | 81.1 | % | 61,730
+Park Place on Turtle Creek | P | P | 100.0% | 1 | 184 | 84.8 | % | 83.8 | % | 75.6 | % | 8,233
+6565 MacArthur | P | P | P | 100.0% | 1 | 255 | 87.1 | % | 87.1 | % | 86.3 | % | 8,480
+Las Colinas Connection | P | P | P | 100.0% | 3 | 603 | 78.4 | % | 78.4 | % | 75.4 | % | 18,570
+The Interlink at Las Colinas | P | P | 100.0% | 2 | 382 | 90.4 | % | 90.4 | % | 68.7 | % | 12,638
+Market Subtotal / Weighted Average | 10 | 2,827 | 86.2 | % | 85.9 | % | 78.3 | % | 109,651
+Minneapolis
+US Bancorp Center | P | P | P | 100.0% | 1 | 930 | 75.6 | % | 69.4 | % | 68.2 | % | 26,180
+Crescent Ridge II | P | P | P | 100.0% | 1 | 295 | 98.8 | % | 98.8 | % | 98.8 | % | 11,412
+Norman Pointe I | P | P | 100.0% | 1 | 209 | 98.8 | % | 98.8 | % | 98.8 | % | 7,518
+Market Subtotal / Weighted Average | 3 | 1,434 | 83.8 | % | 79.7 | % | 79.0 | % | 45,110
+New York
+60 Broad | P | 100.0% | 1 | 1,047 | 92.6 | % | 92.0 | % | 91.8 | % | 63,771
+Market Subtotal / Weighted Average | 1 | 1,047 | 92.6 | % | 92.0 | % | 91.8 | % | 63,771
+Orlando
+The Exchange on Orange | P | P | P | 100.0% | 2 | 773 | 88.9 | % | 87.1 | % | 78.9 | % | 30,004
+CNL Center I and II | P | P | P | 99.0% | 2 | 616 | 90.8 | % | 89.5 | % | 87.4 | % | 24,209
+501 West Church | 100.0% | 1 | 182 | 100.0 | % | 100.0 | % | 100.0 | % | 5,706
+400 and 500 TownPark | P | P | P | 100.0% | 2 | 310 | 96.9 | % | 96.9 | % | 96.6 | % | 11,165
+Market Subtotal / Weighted Average | 7 | 1,881 | 91.9 | % | 90.8 | % | 86.7 | % | 71,084
+36
+In-Service Assets (continued) | Energy Star Certification | LEED Certification | BOMA 360 Certification | Percent Ownership | Number of Buildings | Rentable Square Footage Owned | Percent Leased | Percent Commenced Leased | Percent Economic Leased (1) | Annualized Lease Revenues
+Northern Virginia / Washington, D.C.
+4250 North Fairfax | P | P | P | 100.0% | 1 | 312 | 97.7 | % | 73.1 | % | 60.2 | % | 15,270
+Arlington Gateway | P | P | P | 100.0% | 1 | 331 | 67.9 | % | 62.7 | % | 60.0 | % | 11,165
+3100 Clarendon | P | P | P | 100.0% | 1 | 258 | 85.7 | % | 85.7 | % | 79.1 | % | 10,014
+4075 Wilson Boulevard (2) | P | P | 100.0% | 1 | 186 | 82.5 | % | 78.2 | % | 78.2 | % | 7,019
+1201 and 1225 Eye Street | P | P | (3) | 2 | 478 | 67.1 | % | 67.1 | % | 64.8 | % | 19,403
+400 Virginia | P | P | 100.0% | 1 | 209 | 58.9 | % | 58.9 | % | 58.9 | % | 6,731
+Market Subtotal / Weighted Average | 7 | 1,774 | 76.0 | % | 70.2 | % | 65.9 | % | 69,602
+Other
+Enclave Place | P | P | P | 100.0% | 1 | 301 | 100.0 | % | 100.0 | % | 100.0 | % | 12,409
+1430 Enclave | P | P | P | 100.0% | 1 | 313 | 82.8 | % | 82.8 | % | 82.8 | % | 8,637
+Market Subtotal / Weighted Average | 2 | 614 | 91.2 | % | 91.2 | % | 91.2 | % | 21,046
+In-Service Total | 45 | 15,253 | 87.7 | % | 85.2 | % | 80.8 | % | 603,003
+Out-of-Service Redevelopment Projects (4) | Market | Estimated Stabilization Date | Current Basis (in millions) | Percent Ownership | Number of Buildings | Rentable Square Footage Owned | Percent Leased | Percent Commenced Leased | Percent Economic Leased (1) | Annualized Lease Revenues
+9320 Excelsior | Minneapolis | Q1 2027 | 44.2 | 100.0% | 1 | 273 | 76.3 | % | 44.7 | % | 44.7 | % | 7,726
+Meridian | Minneapolis | Q4 2026 | 91.2 | 100.0% | 2 | 397 | 90.5 | % | 42.9 | % | 13.7 | % | 14,339
+Out-of-Service Total | 135.4 | 3 | 670 | 84.7 | % | 43.6 | % | 26.4 | % | 22,065
+Total Portfolio | 48 | 15,923 | 87.5 | % | 83.4 | % | 78.4 | % | 625,068
+(1) | Economic leased percentage excludes the square footage associated with executed but not commenced leases for currently vacant spaces and the square footage associated with tenants receiving rental abatements (after proportional adjustments for tenants receiving only partial rental abatements).
+(2) | During the three months ended September 30, 2026, the Company acquired 4075 Wilson Boulevard, a Class A office building located in the Ballston submarket of Arlington, VA.
+(3) | Piedmont owns 98.6% of 1201 Eye Street and 98.1% of 1225 Eye Street; however, it is entitled to 100% of the cash flows for each asset pursuant to the terms of each property ownership entity's joint venture agreement.
+(4) | These projects have been placed into redevelopment and are currently excluded from our in-service portfolio metrics. During the redevelopment phase, the Company is adding or fully renovating the lobbies, common areas and other tenant amenities, transforming the projects into multi-tenant assets with a distinct focus on hospitality. Assets will be reclassified back to in-service upon the earlier of (a) one year after receiving the final certificate of occupancy for the space or (b) the asset reaching 80 percent occupied (i.e. commenced leased).
+37
+Piedmont Realty TrustTM
+Property Investment Activity and Land Holdings
+As of September 30, 2026
+Acquisitions Completed During Prior Year and Current Year
+Property | Market / Submarket | Acquisition Period | Year Built | Percent Leased (%) | Square Feet (in thousands) | Purchase Price (1) (in millions)
+4075 Wilson Boulevard | Northern VA / Ballston | Q3 2026 | 2007 | 83% | 186 | $52.0
+Dispositions Completed During Prior Year and Current Year
+Property | Market / Submarket | Disposition Period | Year Built | Percent Leased (%) | Square Feet (in thousands) | Sale Price (in millions)
+80 and 90 Central | Boston / Boxborough | Q2 2025 | 1988 / 2001 | 94% | 322 | $29.5
+Royal Lane (10.6 acre land parcel) | Dallas / Las Colinas | Q3 2026 | N/A | N/A | N/A | $12.0
+Total | $41.5
+Dispositions Currently Under Contract (2)
+Property | Market / Submarket | Anticipated Disposition Period | Year Built | Percent Leased (%) | Square Feet (in thousands) | Sale Price (in millions)
+Enclave Place | Houston / Energy Corridor | Q4 2026 | 2015 | 100 | 301 | $81.8
+Developable Land Parcels
+Property | Market / Submarket | Adjacent Piedmont Project | Acres | Book Value (in millions)
+Gavitello | Atlanta / Buckhead | The Medici | 2.0 | $2.6
+Glenridge Highlands Three | Atlanta / Central Perimeter | Glenridge Highlands | 3.0 | 2.0
+Galleria Atlanta | Atlanta / Northwest | Galleria on the Park | 16.3 | 24.1
+State Highway 161 | Dallas / Las Colinas | The Interlink at Las Colinas | 4.5 | 3.3
+Galleria Dallas | Dallas / Lower North Tollway | Galleria Office Towers | 1.9 | 6.3
+TownPark | Orlando / Lake Mary | 400 and 500 TownPark | 18.4 | 9.1
+Total | 46.1 | $47.4
+(1) | Purchase price is adjusted for credits received at closing.
+(2) | Transactions are subject to customary closing conditions.
+38
+Piedmont Realty TrustTM
+Definitions
+Included below are definitions of various terms used throughout this supplemental report, including definitions of certain non-GAAP financial measures and the reasons why the Company’s management believes these measures provide useful information to investors about the Company’s financial condition and results of operations. Reconciliations of any non-GAAP financial measures defined below are included beginning on page 40.
+Adjusted Funds From Operations ("AFFO"): The Company calculates AFFO by starting with Core FFO and adjusting for non-incremental capital expenditures and then adding back non-cash items including: non-real estate depreciation, straight-lined rents and fair value lease adjustments, non-cash components of interest expense and compensation expense, and by making similar adjustments for joint ventures, if any. AFFO is a non-GAAP financial measure and should not be viewed as an alternative to net income calculated in accordance with GAAP as a measurement of the Company’s operating performance. The Company believes that AFFO is helpful to investors as a meaningful supplemental comparative performance measure of our ability to make incremental capital investments. Other REITs may not define AFFO in the same manner as the Company; therefore, the Company’s computation of AFFO may not be comparable to that of other REITs.
+Annualized Lease Revenue ("ALR"): ALR is calculated by multiplying (i) current rental payments (defined as base rent plus operating expense reimbursements, if payable by the tenant on a monthly basis under the terms of a lease that has been executed, but excluding a) rental abatements and b) rental payments related to executed but not commenced leases for space that was covered by an existing lease), by (ii) 12. In instances in which contractual rents or operating expense reimbursements are collected on an annual, semi-annual, or quarterly basis, such amounts are multiplied by a factor of 1, 2, or 4, respectively, to calculate the annualized figure. For leases that have been executed but not commenced relating to unleased space, ALR is calculated by multiplying (i) the monthly base rental payment (excluding abatements) plus any operating expense reimbursements for the initial month of the lease term, by (ii) 12. Unless stated otherwise, this measure excludes revenues associated with development properties and properties taken out of service for redevelopment, if any.
+Core EBITDA: The Company calculates Core EBITDA as net income/(loss) (computed in accordance with GAAP) before interest, taxes, depreciation and amortization and removing any impairment charges, gains or losses from sales of property and other significant infrequent items that create volatility within our earnings and make it difficult to determine the earnings generated by our core ongoing business. Core EBITDA is a non-GAAP financial measure and should not be viewed as an alternative to net income calculated in accordance with GAAP as a measurement of the Company’s operating performance. The Company believes that Core EBITDA is helpful to investors as a supplemental performance measure because it provides a metric for understanding the performance of the Company’s results from ongoing operations without taking into account the effects of non-cash expenses (such as depreciation and amortization), as well as items that are not part of normal day-to-day operations of the Company’s business. Other REITs may not define Core EBITDA in the same manner as the Company; therefore, the Company’s computation of Core EBITDA may not be comparable to that of other REITs.
+Core Funds From Operations ("Core FFO"): The Company calculates Core FFO by starting with FFO, as defined by NAREIT, and adjusting for gains or losses on the extinguishment of swaps and/or debt and any significant non-recurring items. Core FFO is a non-GAAP financial measure and should not be viewed as an alternative to net income calculated in accordance with GAAP as a measurement of the Company’s operating performance. The Company believes that Core FFO is helpful to investors as a supplemental performance measure because it excludes the effects of certain infrequent or non-recurring items which can create significant earnings volatility, but which do not directly relate to the Company’s core business operations. As a result, the Company believes that Core FFO can help facilitate comparisons of operating performance between periods and provides a more meaningful predictor of future earnings potential. Other REITs may not define Core FFO in the same manner as the Company; therefore, the Company’s computation of Core FFO may not be comparable to that of other REITs.
+EBITDA: EBITDA is defined as net income/(loss) before interest, taxes, depreciation and amortization.
+EBITDAre: The Company calculates EBITDAre in accordance with the current National Association of Real Estate Investment Trusts (“NAREIT”) definition. NAREIT currently defines EBITDAre as net income/(loss) (computed in accordance with GAAP) adjusted for gains or losses from sales of property, impairment charges, depreciation on real estate assets, amortization on real estate assets, interest expense and taxes, along with the same adjustments for joint ventures. Some of the adjustments mentioned can vary among owners of identical assets in similar conditions based on historical cost accounting and useful-life estimates. EBITDAre is a non-GAAP financial measure and should not be viewed as an alternative to net income calculated in accordance with GAAP as a measurement of the Company’s operating performance. The Company believes that EBITDAre is helpful to investors as a supplemental performance measure because it provides a metric for understanding the Company’s results from ongoing operations without taking into account the effects of non-cash expenses (such as depreciation and amortization) and capitalization and capital structure expenses (such as interest expense and taxes). The Company also believes that EBITDAre can help facilitate comparisons of operating performance between periods and with other REITs. However, other REITs may not define EBITDAre in accordance with the NAREIT definition, or may interpret the current NAREIT definition differently than the Company; therefore, the Company’s computation of EBITDAre may not be comparable to that of such other REITs.
+Funds From Operations ("FFO"): The Company calculates FFO in accordance with the current National Association of Real Estate Investment Trusts (“NAREIT”) definition. NAREIT currently defines FFO as net income/(loss) (calculated in accordance with GAAP), excluding depreciation and amortization related to real estate, gains and losses from the sale of certain real estate assets, gains and losses from change in control, and impairment write-downs of certain real estate assets, goodwill, and investment in entities when the impairment is directly attributable to decreases in the value of depreciable real estate held by the entity, along with appropriate adjustments to those reconciling items for joint ventures, if any. These adjustments can vary among owners of identical assets in similar conditions based on historical cost accounting and useful-life estimates. FFO is a non-GAAP financial measure and should not be viewed as an alternative to net income calculated in accordance with GAAP as a measurement of the Company’s operating performance. The Company believes that FFO is helpful to investors as a supplemental performance measure because it excludes the effects of depreciation, amortization and gains or losses from sales of real estate, all of which are based on historical costs, which implicitly assumes that the value of real estate diminishes predictably over time. The Company also believes that FFO can help facilitate comparisons of operating performance between periods and with other REITs. However, other REITs may not define FFO in accordance with the NAREIT definition, or may interpret the current NAREIT definition differently than the Company; therefore, the Company’s computation of FFO may not be comparable to that of such other REITs.
+Incremental Capital Expenditures: Incremental Capital Expenditures are defined as capital expenditures of a non-recurring nature that incrementally enhance the underlying assets' income generating capacity. Tenant improvements, leasing commissions, building capital and deferred lease incentives ("Leasing Costs") incurred to lease space that was vacant at acquisition, Leasing Costs for spaces vacant for greater than one year, Leasing Costs for spaces at newly acquired properties for which in-place leases expire shortly after acquisition, improvements associated with the expansion of a building, renovations that change the underlying classification of a building, and deferred building maintenance capital identified at and completed shortly after acquisition are included in this measure.
+Non-Incremental Capital Expenditures: Non-Incremental Capital Expenditures are defined as capital expenditures of a recurring nature related to tenant improvements and leasing commissions that do not incrementally enhance the underlying assets' income generating capacity. We exclude first generation tenant improvements and leasing commissions from this measure, in addition to other capital expenditures that qualify as Incremental Capital Expenditures, as defined above.
+Property Net Operating Income ("Property NOI"): The Company calculates Property NOI by starting with Core EBITDA and adjusting for general and administrative expense, income associated with property management performed by Piedmont for other organizations and other income or expense items for the Company, such as interest income from loan investments or costs from the pursuit of non-consummated transactions. The Company may present this measure on an accrual basis or a cash basis. When presented on a cash basis, the effects of non-cash general reserve for uncollectible accounts, straight-lined rents and fair value lease revenue are also eliminated. Property NOI is a non-GAAP financial measure and should not be viewed as an alternative to net income calculated in accordance with GAAP as a measurement of the Company’s operating performance. The Company believes that Property NOI is helpful to investors as a supplemental comparative performance measure of income generated by its properties alone without the administrative overhead of the Company. Other REITs may not define Property NOI in the same manner as the Company; therefore, the Company’s computation of Property NOI may not be comparable to that of other REITs.
+Same Store Net Operating Income ("Same Store NOI"): The Company calculates Same Store NOI as Property NOI attributable to the properties for which the following criteria were met during the entire span of the current and prior year reporting periods: (i) they were owned, (ii) they were not under development / redevelopment, and (iii) none of the operating expenses for which were capitalized. Same Store NOI also excludes amounts attributable to land assets. The Company may present this measure on an accrual basis or a cash basis. Same Store NOI is a non-GAAP financial measure and should not be viewed as an alternative to net income calculated in accordance with GAAP as a measurement of the Company’s operating performance. The Company believes that Same Store NOI is helpful to investors as a supplemental comparative performance measure of the income generated from the same group of properties from one period to the next. Other REITs may not define Same Store NOI in the same manner as the Company; therefore, the Company’s computation of Same Store NOI may not be comparable to that of other REITs.
+Same Store Properties: Same Store Properties is defined as those properties for which the following criteria were met during the entire span of the current and prior year reporting periods: (i) they were owned, (ii) they were not under development / redevelopment, and (iii) none of the operating expenses for which were capitalized. Same Store Properties excludes land assets.
+Total Gross Assets: Total Gross Assets is defined as total assets with the add-back of accumulated depreciation and accumulated amortization related to real estate assets and accumulated amortization related to deferred lease costs.
+Total Gross Real Estate Assets: Total Gross Real Estate Assets is defined as total real estate assets with the add-back of accumulated depreciation and accumulated amortization related to real estate assets.
+39
+Piedmont Realty TrustTM
+Non-GAAP Reconciliation:
+GAAP Net Income / (Loss) to FFO, Core FFO, and AFFO
+Unaudited (in thousands)
+Three Months Ended | Nine Months Ended
+9/30/2026 | 6/30/2026 | 3/31/2026 | 12/31/2025 | 9/30/2025 | 9/30/2026 | 9/30/2025
+GAAP net loss applicable to Piedmont | $ | (21,022) | $ | (11,101) | $ | (12,920) | $ | (43,246) | $ | (13,462) | $ | (45,043) | $ | (40,374)
+Depreciation | 45,763 | 44,477 | 43,675 | 42,497 | 41,759 | 133,915 | 122,538
+Amortization | 14,045 | 14,487 | 15,263 | 15,166 | 15,188 | 43,795 | 45,379
+Gain on sale of real estate assets | (8,878) | — | — | — | — | (8,878) | (2,013)
+NAREIT Funds From Operations applicable to common stock | 29,908 | 47,863 | 46,018 | 14,417 | 43,485 | 123,789 | 125,530
+Adjustments:
+Loss on early extinguishment of debt | 20,236 | — | — | 29,788 | — | 20,236 | 8,000
+Core Funds From Operations applicable to common stock | 50,144 | 47,863 | 46,018 | 44,205 | 43,485 | 144,025 | 133,530
+Adjustments:
+Amortization of debt issuance costs and discounts on debt | 1,603 | 1,627 | 1,648 | 1,598 | 1,561 | 4,878 | 4,591
+Depreciation of non real estate assets | 360 | 349 | 351 | 365 | 368 | 1,060 | 1,106
+Straight-line effects of lease revenue | (7,649) | (5,351) | (4,382) | (4,305) | (6,251) | (17,382) | (24,887)
+Stock-based compensation adjustments | 2,478 | 2,396 | (739) | 2,437 | 2,503 | 4,135 | 4,954
+Amortization of lease-related intangibles | (1,496) | (1,660) | (1,940) | (1,959) | (1,959) | (5,096) | (5,978)
+Non-incremental capital expenditures
+Base Building Costs | (2,876) | (3,369) | (6,569) | (3,695) | (3,203) | (12,815) | (18,768)
+Tenant Improvement Costs | (8,540) | (7,342) | (7,840) | (11,887) | (5,575) | (23,722) | (14,013)
+Leasing Commission Costs | (4,085) | (3,523) | (2,705) | (8,050) | (4,425) | (10,312) | (14,301)
+Adjusted Funds From Operations applicable to common stock | $ | 29,939 | $ | 30,990 | $ | 23,842 | $ | 18,709 | $ | 26,504 | $ | 84,771 | $ | 66,234
+40
+Piedmont Realty TrustTM
+Non-GAAP Reconciliation:
+GAAP Net Income/(Loss) to Core EBITDA and Same Store Net Operating Income (Cash Basis)
+Unaudited (in thousands)
+Three Months Ended | Nine Months Ended
+9/30/2026 | 6/30/2026 | 3/31/2026 | 12/31/2025 | 9/30/2025 | 9/30/2026 | 9/30/2025
+GAAP net loss applicable to Piedmont | $ | (21,022) | $ | (11,101) | $ | (12,920) | $ | (43,246) | $ | (13,462) | $ | (45,043) | $ | (40,374)
+Net (loss) income applicable to noncontrolling interest | (2) | 4 | 5 | 6 | 5 | 7 | 13
+Interest expense | 32,026 | 31,874 | 31,929 | 32,406 | 31,968 | 95,829 | 95,599
+Depreciation | 46,123 | 44,825 | 44,027 | 42,862 | 42,127 | 134,975 | 123,666
+Amortization | 14,045 | 14,487 | 15,263 | 15,166 | 15,188 | 43,795 | 45,395
+Gain on sale of real estate assets | (8,878) | — | — | — | — | (8,878) | (2,013)
+EBITDAre | 62,292 | 80,089 | 78,304 | 47,194 | 75,826 | 220,685 | 222,286
+Loss on early extinguishment of debt | 20,236 | — | — | 29,788 | — | 20,236 | 8,000
+Core EBITDA | 82,528 | 80,089 | 78,304 | 76,982 | 75,826 | 240,921 | 230,286
+General and administrative expense | 9,057 | 8,237 | 7,909 | 7,457 | 7,607 | 25,203 | 23,130
+Management fee revenue | (167) | (108) | (158) | (71) | (114) | (433) | (254)
+Other income | (270) | (81) | (118) | 62 | (52) | (468) | (364)
+Straight-line effects of lease revenue | (7,649) | (5,351) | (4,382) | (4,305) | (6,251) | (17,382) | (24,891)
+Amortization of lease-related intangibles | (1,496) | (1,660) | (1,940) | (1,960) | (1,959) | (5,096) | (5,978)
+Property net operating income (cash basis) | 82,003 | 81,126 | 79,615 | 78,165 | 75,057 | 242,745 | 221,929
+Deduct net operating (income) loss from:
+Acquisitions | (200) | — | — | — | — | (200) | —
+Dispositions | (72) | 21 | 65 | (2) | 74 | 14 | (1,554)
+Other investments | (1,022) | (1,138) | 307 | (1,488) | (62) | (1,855) | 149
+Same store net operating income (cash basis) | $ | 80,709 | $ | 80,009 | $ | 79,987 | $ | 76,675 | $ | 75,069 | $ | 240,704 | $ | 220,524
+41

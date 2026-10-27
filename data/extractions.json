@@ -288,5 +288,116 @@
     "press_release_url": "https://www.sec.gov/Archives/edgar/data/706129/000070612926000082/hbnc-20260930earningsrelea.htm",
     "filing_url": "https://www.sec.gov/Archives/edgar/data/706129/000070612926000082/0000706129-26-000082-index.htm",
     "saved_at": "2026-10-25T23:10:02+08:00"
+  },
+  {
+    "cik": "1630472",
+    "company": "TPG RE Finance Trust, Inc.",
+    "accession": "0001630472-26-000031",
+    "release_date": "2026-10-26",
+    "period_end": "2026-09-30",
+    "period_label": "quarter ended 30 September 2026",
+    "figures": {
+      "revenue": null,
+      "operating_income": null,
+      "net_income": {
+        "value": 5.82,
+        "unit": "USD millions",
+        "quote": "Net income attributable to common stockholders | $ | 5,820 | $ | 0.08"
+      },
+      "diluted_eps": {
+        "value": 0.08,
+        "unit": "USD per share",
+        "quote": "Net income attributable to common stockholders | $ | 5,820 | $ | 0.08"
+      }
+    },
+    "guidance": null,
+    "management": [
+      {
+        "id": "M1",
+        "topic": "profit",
+        "claim": "The company recognised GAAP net income attributable to common stockholders of $5.8 million, or $0.08 per share.",
+        "quote": "Recognized GAAP net income attributable to common stockholders of $5.8 million, or $0.08 per common share"
+      },
+      {
+        "id": "M2",
+        "topic": "other",
+        "claim": "The CEO says the company added loan commitments, grew net earning assets and repurchased shares in the quarter.",
+        "quote": "During the third quarter, we added $773 million of loan commitments, grew net earning assets by $600 million, and repurchased 1.2 million shares of common stock."
+      },
+      {
+        "id": "M3",
+        "topic": "outlook",
+        "claim": "The Board approved a new $50 million share repurchase programme, doubling the prior authorisation.",
+        "quote": "our Board approved a new $50 million share repurchase program, doubling our prior authorization"
+      }
+    ],
+    "tone": {
+      "label": "positive",
+      "reason": "The CEO speaks of continued successful execution and a well-positioned balance sheet."
+    },
+    "picked_from_radar": true,
+    "source_file": "sources/1630472-0001630472-26-000031.txt",
+    "press_release_url": "https://www.sec.gov/Archives/edgar/data/1630472/000163047226000031/trtx-20261026exhibit991.htm",
+    "filing_url": "https://www.sec.gov/Archives/edgar/data/1630472/000163047226000031/0001630472-26-000031-index.htm",
+    "saved_at": "2026-10-27T16:17:15+08:00"
+  },
+  {
+    "cik": "1042776",
+    "company": "Piedmont Realty Trust, Inc.",
+    "accession": "0001042776-26-000072",
+    "release_date": "2026-10-26",
+    "period_end": "2026-09-30",
+    "period_label": "quarter ended 30 September 2026",
+    "figures": {
+      "revenue": {
+        "value": 151.236,
+        "unit": "USD millions",
+        "quote": "Total revenues | $151,236 | $144,123"
+      },
+      "operating_income": null,
+      "net_income": {
+        "value": -21.022,
+        "unit": "USD millions",
+        "quote": "Net loss applicable to Piedmont | $(21,022)"
+      },
+      "diluted_eps": {
+        "value": -0.17,
+        "unit": "USD per share",
+        "quote": "Net loss per share applicable to common stockholders - basic and diluted | $(0.17)"
+      }
+    },
+    "guidance": {
+      "text": "The company raised and narrowed its 2026 Core FFO outlook for the third quarter in a row.",
+      "quote": "For the third quarter in a row, the Company is increasing and narrowing its Core FFO outlook for the year ending December 31, 2026"
+    },
+    "management": [
+      {
+        "id": "M1",
+        "topic": "revenue",
+        "claim": "The CEO says leasing demand stayed strong and leasing spreads were high.",
+        "quote": "Leasing demand remained strong, allowing us to continue to push rental rates and net effective rents to all-time highs with cash and accrual leasing spreads of 26% and 35%, respectively."
+      },
+      {
+        "id": "M2",
+        "topic": "profit",
+        "claim": "The CEO says cash Same Store NOI grew about 8%.",
+        "quote": "Same Store NOI on a cash basis grew approximately 8% during the quarter"
+      },
+      {
+        "id": "M3",
+        "topic": "outlook",
+        "claim": "The CEO says the annual outlook is raised for the third quarter in a row.",
+        "quote": "For the third quarter in a row, we are raising our annual outlook, which is now six cents ahead of our initial 2026 outlook."
+      }
+    ],
+    "tone": {
+      "label": "positive",
+      "reason": "The CEO calls the quarter phenomenal and says the leasing pipeline remains strong."
+    },
+    "picked_from_radar": true,
+    "source_file": "sources/1042776-0001042776-26-000072.txt",
+    "press_release_url": "https://www.sec.gov/Archives/edgar/data/1042776/000104277626000072/pdm93026ex991q32026ersuppl.htm",
+    "filing_url": "https://www.sec.gov/Archives/edgar/data/1042776/000104277626000072/0001042776-26-000072-index.htm",
+    "saved_at": "2026-10-27T16:17:15+08:00"
   }
 ]
